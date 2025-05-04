@@ -358,3 +358,11 @@
 [04:24:28] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/145139, l='world', x=164.02, y=19.25, z=288.96] connected. Sending ping
 [04:27:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Sticky stuff]
 [04:27:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Sticky stuff]
+[04:47:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
+[04:47:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
+[04:48:20] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[04:48:20] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
+[04:48:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:48:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:51981] logged in with entity id 162559 at (98.4406124631204, 63.0, 152.12580488611286)
+[04:48:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
+[04:48:22] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/162559, l='world', x=98.44, y=63.00, z=152.13] connected. Sending ping
