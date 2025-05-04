@@ -9692,3 +9692,127 @@
 
 [02:57:45] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 780 times.
 
+[02:58:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:58:35] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 785 times.
+
+[02:58:35] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 785 times.
+
+[02:59:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:59:25] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 790 times.
+
+[02:59:25] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 790 times.
+
+[02:59:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was slain by Spider
+[02:59:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:59:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[02:59:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[03:00:15] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 795 times.
+
+[03:00:15] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 795 times.
+
+[03:00:18] [Server thread/TRACE] [FML]: Handshake channel activating
+[03:00:18] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[03:00:18] [Server thread/DEBUG] [FML]:   Next: HELLO
+[03:00:18] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[03:00:18] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[03:00:18] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:17 mods->FMLHandshakeServerState$2:HELLO
+[03:00:18] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.0,mcp@9.42,naturescompass@1.8.5
+[03:00:18] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[03:00:18] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[03:00:18] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[03:00:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[03:00:19] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[03:00:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[03:00:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:00:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.110.109.185:59001] logged in with entity id 85485 at (-133.81657611739493, 66.0, 235.34381520540575)
+[03:00:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[03:00:19] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/85485, l='world', x=-133.82, y=66.00, z=235.34] connected. Sending ping
+[03:00:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[03:00:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:01:05] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 800 times.
+
+[03:01:05] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 800 times.
+
+[03:01:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:01:55] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 805 times.
+
+[03:01:55] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 805 times.
+
+[03:02:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:02:45] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 810 times.
+
+[03:02:45] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 810 times.
+
+[03:02:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:03:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:03:35] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 815 times.
+
+[03:03:35] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 815 times.
+
+[03:04:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:04:25] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 820 times.
+
+[03:04:25] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 820 times.
+
+[03:04:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was blown up by Creeper
+[03:04:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was blown up by Creeper
+[03:05:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:05:15] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 825 times.
+
+[03:05:15] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 825 times.
+
+[03:05:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[03:05:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[03:05:31] [Server thread/TRACE] [FML]: Handshake channel activating
+[03:05:31] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[03:05:31] [Server thread/DEBUG] [FML]:   Next: HELLO
+[03:05:31] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[03:05:31] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[03:05:31] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ModList:17 mods->FMLHandshakeServerState$2:HELLO
+[03:05:31] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.0,mcp@9.42,naturescompass@1.8.5
+[03:05:31] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: WAITINGCACK
+[03:05:32] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[03:05:32] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: COMPLETE
+[03:05:33] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[03:05:33] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: DONE
+[03:05:33] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[03:05:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:05:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.110.109.185:56361] logged in with entity id 92689 at (-128.30000001192093, 69.0, 245.69999998807907)
+[03:05:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[03:05:33] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/92689, l='world', x=-128.30, y=69.00, z=245.70] connected. Sending ping
+[03:05:33] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[03:05:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:05:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[03:05:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[03:06:05] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 830 times.
+
+[03:06:05] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 830 times.
+
+[03:06:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:06:52] [Server thread/TRACE] [FML]: Handshake channel activating
+[03:06:52] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[03:06:52] [Server thread/DEBUG] [FML]:   Next: HELLO
+[03:06:52] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[03:06:52] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[03:06:52] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ModList:17 mods->FMLHandshakeServerState$2:HELLO
+[03:06:52] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.0,mcp@9.42,naturescompass@1.8.5
+[03:06:52] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: WAITINGCACK
+[03:06:53] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[03:06:53] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: COMPLETE
+[03:06:54] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[03:06:54] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: DONE
+[03:06:54] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[03:06:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:06:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.110.109.185:42023] logged in with entity id 93350 at (-128.30000001192093, 69.0, 245.69999998807907)
+[03:06:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[03:06:54] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/93350, l='world', x=-128.30, y=69.00, z=245.70] connected. Sending ping
+[03:06:54] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[03:06:55] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 835 times.
+
+[03:06:55] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 835 times.
+
+[03:07:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:07:45] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 840 times.
+
+[03:07:45] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 840 times.
+
