@@ -295,3 +295,5 @@
 [03:06:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.110.109.185:42023] logged in with entity id 93350 at (-128.30000001192093, 69.0, 245.69999998807907)
 [03:06:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
 [03:06:54] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/93350, l='world', x=-128.30, y=69.00, z=245.70] connected. Sending ping
+[03:10:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
+[03:10:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
