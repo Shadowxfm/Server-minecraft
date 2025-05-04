@@ -366,3 +366,7 @@
 [04:48:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:51981] logged in with entity id 162559 at (98.4406124631204, 63.0, 152.12580488611286)
 [04:48:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
 [04:48:22] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/162559, l='world', x=98.44, y=63.00, z=152.13] connected. Sending ping
+[04:50:42] [Netty Epoll Server IO #6/INFO] [naturescompass]: Starting search: 64 sample space, 10000 max distance
+[04:50:45] [Server thread/INFO] [naturescompass]: Search failed: 10001 radius, 24532 samples
+[04:51:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was blown up by Creeper
+[04:56:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ drowned

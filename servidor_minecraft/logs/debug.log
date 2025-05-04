@@ -10585,3 +10585,69 @@
 [04:48:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
 [04:48:22] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/162559, l='world', x=98.44, y=63.00, z=152.13] connected. Sending ping
 [04:48:22] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:48:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:48:35] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1445 times.
+
+[04:48:35] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1445 times.
+
+[04:49:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:49:25] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1450 times.
+
+[04:49:25] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1450 times.
+
+[04:50:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:50:15] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1455 times.
+
+[04:50:15] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1455 times.
+
+[04:50:42] [Netty Epoll Server IO #6/INFO] [naturescompass]: Starting search: 64 sample space, 10000 max distance
+[04:50:45] [Server thread/INFO] [naturescompass]: Search failed: 10001 radius, 24532 samples
+[04:50:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:51:05] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1460 times.
+
+[04:51:05] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1460 times.
+
+[04:51:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was blown up by Creeper
+[04:51:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:51:55] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1465 times.
+
+[04:51:55] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1465 times.
+
+[04:52:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:52:45] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1470 times.
+
+[04:52:45] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1470 times.
+
+[04:53:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:53:35] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1475 times.
+
+[04:53:35] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1475 times.
+
+[04:53:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:54:25] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1480 times.
+
+[04:54:25] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1480 times.
+
+[04:54:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:15] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1485 times.
+
+[04:55:15] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1485 times.
+
+[04:55:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:56:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:56:05] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1490 times.
+
+[04:56:05] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1490 times.
+
+[04:56:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:56:55] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1495 times.
+
+[04:56:55] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1495 times.
+
+[04:56:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ drowned
+[04:57:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:57:45] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1500 times.
+
+[04:57:45] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1500 times.
+
+[04:58:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
