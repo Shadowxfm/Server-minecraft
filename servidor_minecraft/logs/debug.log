@@ -9583,3 +9583,112 @@
 [02:47:45] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 720 times.
 
 [02:47:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:48:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:48:35] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 725 times.
+
+[02:48:35] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 725 times.
+
+[02:49:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:49:25] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 730 times.
+
+[02:49:25] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 730 times.
+
+[02:50:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:50:15] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 735 times.
+
+[02:50:15] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 735 times.
+
+[02:50:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:51:05] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 740 times.
+
+[02:51:05] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 740 times.
+
+[02:51:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:51:55] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 745 times.
+
+[02:51:55] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 745 times.
+
+[02:52:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:52:45] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 750 times.
+
+[02:52:45] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 750 times.
+
+[02:53:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:53:35] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 755 times.
+
+[02:53:35] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 755 times.
+
+[02:53:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:54:25] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 760 times.
+
+[02:54:25] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 760 times.
+
+[02:54:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:55:15] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 765 times.
+
+[02:55:15] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 765 times.
+
+[02:55:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:55:44] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:55:44] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:55:44] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:55:46] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:55:46] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[02:55:46] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ModList:14 mods->FMLHandshakeServerState$2:HELLO
+[02:55:46] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
+[02:55:46] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: WAITINGCACK
+[02:55:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Disconnected
+[02:55:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
+[02:55:54] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:55:54] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:55:54] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:55:54] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:55:54] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[02:55:54] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ModList:14 mods->FMLHandshakeServerState$2:HELLO
+[02:55:54] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
+[02:55:54] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: WAITINGCACK
+[02:55:54] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:55:54] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: COMPLETE
+[02:55:56] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:55:56] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: DONE
+[02:55:56] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:55:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:55:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:38615] logged in with entity id 82565 at (48.86912768796944, 102.0, 261.27745806794877)
+[02:55:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
+[02:55:56] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/82565, l='world', x=48.87, y=102.00, z=261.28] connected. Sending ping
+[02:55:56] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:56:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:56:05] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 770 times.
+
+[02:56:05] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 770 times.
+
+[02:56:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
+[02:56:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
+[02:56:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:56:55] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 775 times.
+
+[02:56:55] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 775 times.
+
+[02:57:17] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:57:17] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:57:17] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:57:17] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:57:17] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[02:57:17] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:14 mods->FMLHandshakeServerState$2:HELLO
+[02:57:17] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
+[02:57:17] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[02:57:17] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:57:17] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[02:57:19] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:57:19] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[02:57:19] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:57:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:57:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:43115] logged in with entity id 83181 at (48.86912768796944, 102.0, 261.27745806794877)
+[02:57:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
+[02:57:19] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/83181, l='world', x=48.87, y=102.00, z=261.28] connected. Sending ping
+[02:57:19] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:57:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:57:45] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 780 times.
+
+[02:57:45] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 780 times.
+
