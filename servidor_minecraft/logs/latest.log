@@ -485,3 +485,20 @@
 [06:14:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
 [06:14:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
 [06:14:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[06:19:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Best Friends Forever]
+[06:21:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
+[06:21:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
+[06:23:18] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[06:23:18] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
+[06:23:20] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:23:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:51015] logged in with entity id 252187 at (-2048.2463539080986, 63.0, 1921.5606852629207)
+[06:23:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
+[06:23:20] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/252187, l='world', x=-2048.25, y=63.00, z=1921.56] connected. Sending ping
+[06:23:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
+[06:23:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
+[06:24:24] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[06:24:24] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
+[06:24:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:24:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:44195] logged in with entity id 254904 at (-2048.2463539080986, 63.0, 1921.5606852629207)
+[06:24:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
+[06:24:26] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/254904, l='world', x=-2048.25, y=63.00, z=1921.56] connected. Sending ping
