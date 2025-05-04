@@ -337,3 +337,4 @@
 [03:57:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:42751] logged in with entity id 124845 at (171.62937036887774, 48.00133597911215, 237.49408506351702)
 [03:57:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
 [03:57:44] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/124845, l='world', x=171.63, y=48.00, z=237.49] connected. Sending ping
+[04:12:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Diamonds!]
