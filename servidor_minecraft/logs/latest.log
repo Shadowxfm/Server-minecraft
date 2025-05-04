@@ -238,3 +238,15 @@
 [02:16:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
 [02:16:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx fell from a high place
 [02:37:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was shot by Skeleton
+[02:38:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was shot by Skeleton
+[02:41:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was shot by Skeleton
+[02:43:42] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:43:42] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
+[02:43:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:43:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:48709] logged in with entity id 75264 at (48.86912768796944, 102.0, 261.27745806794877)
+[02:43:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
+[02:43:45] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/75264, l='world', x=48.87, y=102.00, z=261.28] connected. Sending ping
+[02:44:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
+[02:44:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
+[02:44:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[02:44:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
