@@ -204,3 +204,10 @@
 [01:37:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
 [01:37:01] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/27789, l='world', x=-32.17, y=34.00, z=261.90] connected. Sending ping
 [01:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was shot by Skeleton
+[01:39:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was shot by Skeleton
+[01:40:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was blown up by Creeper
+[01:41:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was shot by Skeleton
+[01:42:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Monster Hunter]
+[01:44:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:46:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx fell from a high place
+[01:46:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Monster Hunter]

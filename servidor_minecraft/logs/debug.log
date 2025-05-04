@@ -9067,3 +9067,71 @@
 [01:37:01] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [01:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was shot by Skeleton
 [01:37:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:37:45] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 300 times.
+
+[01:37:45] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 300 times.
+
+[01:38:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:38:35] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 305 times.
+
+[01:38:35] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 305 times.
+
+[01:38:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:39:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was shot by Skeleton
+[01:39:25] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 310 times.
+
+[01:39:25] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 310 times.
+
+[01:39:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:40:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was blown up by Creeper
+[01:40:15] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 315 times.
+
+[01:40:15] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 315 times.
+
+[01:40:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:41:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:41:05] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 320 times.
+
+[01:41:05] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 320 times.
+
+[01:41:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was shot by Skeleton
+[01:41:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:41:55] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 325 times.
+
+[01:41:55] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 325 times.
+
+[01:42:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Monster Hunter]
+[01:42:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:42:45] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 330 times.
+
+[01:42:45] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 330 times.
+
+[01:43:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:43:35] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 335 times.
+
+[01:43:35] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 335 times.
+
+[01:44:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:44:25] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 340 times.
+
+[01:44:25] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 340 times.
+
+[01:44:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:44:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:45:15] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 345 times.
+
+[01:45:15] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 345 times.
+
+[01:45:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:46:05] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 350 times.
+
+[01:46:05] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 350 times.
+
+[01:46:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:46:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx fell from a high place
+[01:46:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Monster Hunter]
+[01:46:55] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 355 times.
+
+[01:46:55] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 355 times.
+
+[01:47:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

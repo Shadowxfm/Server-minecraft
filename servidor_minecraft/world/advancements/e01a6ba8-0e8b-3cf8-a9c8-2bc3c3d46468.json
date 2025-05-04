@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2025-05-04 01:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 01:30:54 +0000"
@@ -302,6 +308,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2025-05-04 01:42:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 01:30:54 +0000"
@@ -328,6 +340,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-04 01:39:31 +0000",
+      "cooked_beef": "2025-05-04 01:45:27 +0000",
       "apple": "2025-05-04 01:33:49 +0000"
     },
     "done": false
