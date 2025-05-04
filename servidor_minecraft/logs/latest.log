@@ -426,3 +426,5 @@
 [05:35:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:48029] logged in with entity id 205082 at (-459.87632391945584, 72.0, 1020.5467788354517)
 [05:35:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
 [05:35:59] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/205082, l='world', x=-459.88, y=72.00, z=1020.55] connected. Sending ping
+[05:47:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [A Seedy Place]
+[05:48:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [A Seedy Place]
