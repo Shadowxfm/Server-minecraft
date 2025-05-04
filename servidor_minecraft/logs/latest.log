@@ -174,3 +174,7 @@
 [01:07:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:40623] logged in with entity id 10651 at (-147.5, 73.0, 232.5)
 [01:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
 [01:07:25] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/10651, l='world', x=-147.50, y=73.00, z=232.50] connected. Sending ping
+[01:10:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was blown up by Creeper
+[01:10:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Stone Age]
+[01:12:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Getting an Upgrade]
+[01:13:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Getting an Upgrade]
