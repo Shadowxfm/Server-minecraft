@@ -10041,3 +10041,73 @@
 [03:37:45] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1020 times.
 
 [03:38:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:38:35] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1025 times.
+
+[03:38:35] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1025 times.
+
+[03:38:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:39:25] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1030 times.
+
+[03:39:25] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1030 times.
+
+[03:39:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:39:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx fell from a high place
+[03:40:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was shot by Skeleton
+[03:40:15] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1035 times.
+
+[03:40:15] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1035 times.
+
+[03:40:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:41:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:41:05] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1040 times.
+
+[03:41:05] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1040 times.
+
+[03:41:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:41:55] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1045 times.
+
+[03:41:55] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1045 times.
+
+[03:42:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:42:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was blown up by Creeper
+[03:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Isn't It Iron Pick]
+[03:42:45] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1050 times.
+
+[03:42:45] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1050 times.
+
+[03:42:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Hot Stuff]
+[03:43:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:43:35] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1055 times.
+
+[03:43:35] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1055 times.
+
+[03:44:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Suit Up]
+[03:44:25] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1060 times.
+
+[03:44:25] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1060 times.
+
+[03:44:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Suit Up]
+[03:44:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:45:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[03:45:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[03:45:15] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1065 times.
+
+[03:45:15] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1065 times.
+
+[03:45:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:46:05] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1070 times.
+
+[03:46:05] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1070 times.
+
+[03:46:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:46:55] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1075 times.
+
+[03:46:55] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1075 times.
+
+[03:47:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:47:45] [Server thread/DEBUG] [FML]: The world 298171c (world) may have leaked: seen 1080 times.
+
+[03:47:45] [Server thread/DEBUG] [FML]: The world 2a82ac9a (world) may have leaked: seen 1080 times.
+
+[03:47:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
