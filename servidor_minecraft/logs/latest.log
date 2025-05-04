@@ -1,544 +1,170 @@
-[00:47:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:47:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:47:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:47:30] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[00:47:30] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.8.0-1026-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[00:47:30] [main/INFO] [FML]: Searching /workspaces/MSP-2.5/servidor_minecraft/./mods for mods
-[00:47:30] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.7.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[00:47:30] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
-[00:47:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:47:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[00:47:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:47:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:47:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:47:32] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[00:47:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:47:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:47:32] [main/INFO] [MicdoodleCore]: Successfully Registered Transformer
-[00:47:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[00:47:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[00:47:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[00:47:33] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[00:47:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[00:47:35] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[00:47:35] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[00:47:36] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[00:47:36] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[00:47:36] [Server thread/INFO] [FML]: Searching /workspaces/MSP-2.5/servidor_minecraft/./mods for mods
-[00:47:37] [Server thread/INFO] [FML]: Forge Mod Loader has identified 12 mods to load
-[00:47:37] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[00:47:37] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
-[00:47:37] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, extraplanets, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib, naturescompass] at CLIENT
-[00:47:37] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, extraplanets, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib, naturescompass] at SERVER
-[00:47:38] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[00:47:38] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[00:47:38] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[00:47:38] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[00:47:38] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[00:47:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[00:47:39] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsmercury dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 4 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsjuptier dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 5 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssaturn dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 6 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsuranus dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 7 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsneptune dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 8 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetspluto dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 9 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetseris dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 10 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit fake`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedrefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimaterefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssolar panel`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decrystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic crystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic smasher`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic chemical injector`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic solar evaporation chamber`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic purifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedfuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimatefuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic densifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsvehiclechanger`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[00:47:41] [Server thread/INFO] [FML]: Applying holder lookups
-[00:47:41] [Server thread/INFO] [FML]: Holder lookups applied
-[00:47:41] [Server thread/INFO] [FML]: Applying holder lookups
-[00:47:41] [Server thread/INFO] [FML]: Holder lookups applied
-[00:47:41] [Server thread/INFO] [FML]: Applying holder lookups
-[00:47:41] [Server thread/INFO] [FML]: Holder lookups applied
-[00:47:41] [Server thread/INFO] [FML]: Applying holder lookups
-[00:47:41] [Server thread/INFO] [FML]: Holder lookups applied
-[00:47:41] [Server thread/INFO] [FML]: Injecting itemstacks
-[00:47:41] [Server thread/INFO] [FML]: Itemstack injection complete
-[00:47:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[00:47:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[00:47:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[00:47:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[00:47:41] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[00:47:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:47:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[00:47:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:47:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:47:42] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MorePlanets Compatibility, this is most likey intended!
-[00:47:42] [Server thread/INFO] [FML]: Applying holder lookups
-[00:47:42] [Server thread/INFO] [FML]: Holder lookups applied
-[00:47:42] [Server thread/INFO] [FML]: Injecting itemstacks
-[00:47:42] [Server thread/INFO] [FML]: Itemstack injection complete
-[00:47:42] [Server thread/INFO] [GalacticraftCore]: Activating WAILA compatibility features.
-[00:47:42] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up ExtremeReactors Compatibility, this is most likey intended!
-[00:47:42] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MCMultiPart Compatibility, this is most likey intended!
-[00:47:42] [Server thread/INFO] [Waila]: Starting Waila...
-[00:47:42] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[00:47:42] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[00:47:42] [Server thread/INFO] [Waila]: Registering plugins...
-[00:47:42] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[00:47:42] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[00:47:42] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[00:47:42] [Server thread/INFO] [Waila]: Starting Waila took 33.16 ms
-[00:47:42] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 12 mods
-[00:47:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[00:47:42] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[00:47:43] [Server thread/INFO] [FML]: Applying holder lookups
-[00:47:43] [Server thread/INFO] [FML]: Holder lookups applied
-[00:47:43] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@41e6067e)
-[00:47:43] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 516 advancements
-[00:47:43] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@41e6067e)
-[00:47:43] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@41e6067e)
-[00:47:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[00:47:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
-[00:47:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.030s)! For help, type "help" or "?"
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -13
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -20
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -15
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -16
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -17
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -18
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -19
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -21
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -22
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -29
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -30
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -31
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1504
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1501
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1500
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1503
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1502
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1505
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1506
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1507
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1508
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1509
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1510
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1511
-[00:47:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -28
-[00:47:46] [Server thread/INFO] [FML]: Unloading dimension -1
-[00:47:46] [Server thread/INFO] [FML]: Unloading dimension 1
-[00:48:02] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[00:48:02] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,dynamiclights_entityclasses@1.0.1,jei@4.16.1.1013,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,xaerominimap@25.2.0,mcp@9.42,naturescompass@1.8.5,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,waila@1.8.26,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,forge@14.23.5.2860
-[00:48:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:48:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.110.109.185:34137] logged in with entity id 343 at (-146.363652435233, 73.0, 232.54359933676344)
-[00:48:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[00:48:04] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/343, l='world', x=-146.36, y=73.00, z=232.54] connected. Sending ping
-[00:59:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was blown up by Creeper
-[00:59:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Stone Age]
-[01:02:04] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[01:02:04] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[01:02:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:02:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:33511] logged in with entity id 7350 at (-147.5, 73.0, 232.5)
-[01:02:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[01:02:07] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/7350, l='world', x=-147.50, y=73.00, z=232.50] connected. Sending ping
-[01:02:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[01:02:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[01:07:23] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[01:07:23] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[01:07:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:07:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:40623] logged in with entity id 10651 at (-147.5, 73.0, 232.5)
-[01:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[01:07:25] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/10651, l='world', x=-147.50, y=73.00, z=232.50] connected. Sending ping
-[01:10:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was blown up by Creeper
-[01:10:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Stone Age]
-[01:12:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Getting an Upgrade]
-[01:13:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Getting an Upgrade]
-[01:28:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[01:28:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[01:30:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Acquire Hardware]
-[01:34:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Disconnected
-[01:34:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
-[01:34:26] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[01:34:27] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[01:34:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:34:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:39747] logged in with entity id 26975 at (-32.72740953223869, 32.0, 265.69999998807907)
-[01:34:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[01:34:29] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/26975, l='world', x=-32.73, y=32.00, z=265.70] connected. Sending ping
-[01:34:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[01:34:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[01:35:10] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
-[01:35:10] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[01:35:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:35:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:45447] logged in with entity id 27148 at (-32.72740953223869, 32.0, 265.69999998807907)
-[01:35:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[01:35:12] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/27148, l='world', x=-32.73, y=32.00, z=265.70] connected. Sending ping
-[01:36:58] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[01:36:58] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.0,mcp@9.42,naturescompass@1.8.5
-[01:37:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:37:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.110.109.185:38665] logged in with entity id 27789 at (-32.167713513485545, 34.0, 261.9018001084206)
-[01:37:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[01:37:01] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/27789, l='world', x=-32.17, y=34.00, z=261.90] connected. Sending ping
-[01:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was shot by Skeleton
-[01:39:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was shot by Skeleton
-[01:40:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was blown up by Creeper
-[01:41:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was shot by Skeleton
-[01:42:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Monster Hunter]
-[01:44:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[01:46:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx fell from a high place
-[01:46:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Monster Hunter]
-[01:52:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Not Today, Thank You]
-[01:52:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Not Today, Thank You]
-[01:54:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Isn't It Iron Pick]
-[01:57:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[01:57:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[01:59:19] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[01:59:19] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[01:59:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:59:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:36327] logged in with entity id 40663 at (-32.74659989022959, 23.0, 283.09199196648296)
-[01:59:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[01:59:23] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/40663, l='world', x=-32.75, y=23.00, z=283.09] connected. Sending ping
-[01:59:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[01:59:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[02:00:09] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[02:00:09] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[02:00:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:00:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:52761] logged in with entity id 40892 at (-32.74659989022959, 23.0, 283.09199196648296)
-[02:00:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[02:00:11] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/40892, l='world', x=-32.75, y=23.00, z=283.09] connected. Sending ping
-[02:01:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Acquire Hardware]
-[02:02:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Hot Stuff]
-[02:05:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Best Friends Forever]
-[02:15:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was shot by Skeleton
-[02:16:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[02:16:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[02:16:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx fell from a high place
-[02:37:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was shot by Skeleton
-[02:38:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was shot by Skeleton
-[02:41:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was shot by Skeleton
-[02:43:42] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[02:43:42] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[02:43:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:43:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:48709] logged in with entity id 75264 at (48.86912768796944, 102.0, 261.27745806794877)
-[02:43:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[02:43:45] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/75264, l='world', x=48.87, y=102.00, z=261.28] connected. Sending ping
-[02:44:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[02:44:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[02:44:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[02:44:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[02:55:46] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[02:55:46] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[02:55:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Disconnected
-[02:55:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[02:55:54] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[02:55:54] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[02:55:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:55:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:38615] logged in with entity id 82565 at (48.86912768796944, 102.0, 261.27745806794877)
-[02:55:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[02:55:56] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/82565, l='world', x=48.87, y=102.00, z=261.28] connected. Sending ping
-[02:56:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[02:56:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[02:57:17] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[02:57:17] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[02:57:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:57:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:43115] logged in with entity id 83181 at (48.86912768796944, 102.0, 261.27745806794877)
-[02:57:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[02:57:19] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/83181, l='world', x=48.87, y=102.00, z=261.28] connected. Sending ping
-[02:59:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was slain by Spider
-[02:59:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
-[02:59:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
-[03:00:18] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[03:00:18] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.0,mcp@9.42,naturescompass@1.8.5
-[03:00:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:00:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.110.109.185:59001] logged in with entity id 85485 at (-133.81657611739493, 66.0, 235.34381520540575)
-[03:00:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[03:00:19] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/85485, l='world', x=-133.82, y=66.00, z=235.34] connected. Sending ping
-[03:04:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was blown up by Creeper
-[03:04:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was blown up by Creeper
-[03:05:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
-[03:05:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
-[03:05:31] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[03:05:31] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.0,mcp@9.42,naturescompass@1.8.5
-[03:05:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:05:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.110.109.185:56361] logged in with entity id 92689 at (-128.30000001192093, 69.0, 245.69999998807907)
-[03:05:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[03:05:33] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/92689, l='world', x=-128.30, y=69.00, z=245.70] connected. Sending ping
-[03:05:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
-[03:05:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
-[03:06:52] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
-[03:06:52] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.0,mcp@9.42,naturescompass@1.8.5
-[03:06:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:06:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.110.109.185:42023] logged in with entity id 93350 at (-128.30000001192093, 69.0, 245.69999998807907)
-[03:06:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[03:06:54] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/93350, l='world', x=-128.30, y=69.00, z=245.70] connected. Sending ping
-[03:10:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[03:10:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[03:33:57] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[03:33:57] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[03:34:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:34:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:33767] logged in with entity id 105879 at (-144.5323358747337, 73.0, 233.38971003388033)
-[03:34:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[03:34:01] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/105879, l='world', x=-144.53, y=73.00, z=233.39] connected. Sending ping
-[03:34:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[03:34:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[03:35:33] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[03:35:33] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[03:35:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:35:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:59663] logged in with entity id 106508 at (-144.5323358747337, 73.0, 233.38971003388033)
-[03:35:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[03:35:35] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/106508, l='world', x=-144.53, y=73.00, z=233.39] connected. Sending ping
-[03:39:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx fell from a high place
-[03:40:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was shot by Skeleton
-[03:42:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was blown up by Creeper
-[03:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Isn't It Iron Pick]
-[03:42:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Hot Stuff]
-[03:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Suit Up]
-[03:44:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Suit Up]
-[03:45:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[03:45:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[03:54:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ was kicked for floating too long!
-[03:54:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Flying is not enabled on this server
-[03:54:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[03:57:05] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[03:57:05] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[03:57:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:57:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:40183] logged in with entity id 124367 at (171.62937036887774, 48.00133597911215, 237.49408506351702)
-[03:57:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[03:57:07] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/124367, l='world', x=171.63, y=48.00, z=237.49] connected. Sending ping
-[03:57:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[03:57:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[03:57:42] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[03:57:42] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[03:57:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:57:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:42751] logged in with entity id 124845 at (171.62937036887774, 48.00133597911215, 237.49408506351702)
-[03:57:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[03:57:44] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/124845, l='world', x=171.63, y=48.00, z=237.49] connected. Sending ping
-[04:12:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Diamonds!]
-[04:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> no me ha petado completamente
-[04:21:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ was kicked for floating too long!
-[04:21:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Flying is not enabled on this server
-[04:21:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[04:23:45] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[04:23:45] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[04:23:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:23:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:58683] logged in with entity id 144691 at (164.0245077035847, 19.24918707874468, 288.96355698501446)
-[04:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[04:23:48] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/144691, l='world', x=164.02, y=19.25, z=288.96] connected. Sending ping
-[04:24:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[04:24:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[04:24:25] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[04:24:25] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[04:24:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:24:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:45987] logged in with entity id 145139 at (164.0245077035847, 19.24918707874468, 288.96355698501446)
-[04:24:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[04:24:28] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/145139, l='world', x=164.02, y=19.25, z=288.96] connected. Sending ping
-[04:27:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Sticky stuff]
-[04:27:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Sticky stuff]
-[04:47:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[04:47:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[04:48:20] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[04:48:20] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[04:48:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:48:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:51981] logged in with entity id 162559 at (98.4406124631204, 63.0, 152.12580488611286)
-[04:48:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[04:48:22] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/162559, l='world', x=98.44, y=63.00, z=152.13] connected. Sending ping
-[04:50:42] [Netty Epoll Server IO #6/INFO] [naturescompass]: Starting search: 64 sample space, 10000 max distance
-[04:50:45] [Server thread/INFO] [naturescompass]: Search failed: 10001 radius, 24532 samples
-[04:51:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was blown up by Creeper
-[04:56:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ drowned
-[04:58:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Diamonds!]
-[05:04:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[05:04:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[05:07:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> si no te preocupes se que toy mute
-[05:07:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> si no que casi se me apaga el telefono
-[05:07:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> que bioma vas a buscar al final?
-[05:08:08] [Netty Epoll Server IO #6/INFO] [naturescompass]: Starting search: 64 sample space, 10000 max distance
-[05:08:08] [Server thread/INFO] [naturescompass]: Search succeeded: 2818 radius, 2352 samples
-[05:08:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> cuantoooooooooooooooooos
-[05:08:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> igual
-[05:08:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> jajajaaj
-[05:08:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> dame el compass aver?
-[05:09:07] [Netty Epoll Server IO #6/INFO] [naturescompass]: Starting search: 64 sample space, 10000 max distance
-[05:09:08] [Server thread/INFO] [naturescompass]: Search succeeded: 6062 radius, 17315 samples
-[05:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> 1245 -5800
-[05:09:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> alm
-[05:10:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> te sigo
-[05:10:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> creo que va a ser mejor centrarnos donde establecernos xdddd
-[05:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> ya lo tienes
-[05:11:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> no se como tu quieras
-[05:11:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> tu eres el builder tu le sabes mas a eso
-[05:12:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> yo soy el viciado que se pone a minar apenas entra a un server
-[05:12:12] [Netty Epoll Server IO #6/INFO] [naturescompass]: Starting search: 64 sample space, 10000 max distance
-[05:12:12] [Server thread/INFO] [naturescompass]: Search succeeded: 2818 radius, 2352 samples
-[05:15:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[05:15:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[05:19:44] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[05:19:44] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[05:19:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[05:19:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:38059] logged in with entity id 182436 at (73.30000001192093, 71.0, 170.43024958289573)
-[05:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[05:19:47] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/182436, l='world', x=73.30, y=71.00, z=170.43] connected. Sending ping
-[05:20:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[05:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[05:20:33] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[05:20:33] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[05:20:34] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[05:20:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:53081] logged in with entity id 182888 at (73.30000001192093, 71.0, 170.43024958289573)
-[05:20:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[05:20:34] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/182888, l='world', x=73.30, y=71.00, z=170.43] connected. Sending ping
-[05:32:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[05:32:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[05:33:26] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[05:33:26] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[05:33:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[05:33:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:44169] logged in with entity id 203742 at (-459.87632391945584, 72.0, 1020.5467788354517)
-[05:33:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[05:33:28] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/203742, l='world', x=-459.88, y=72.00, z=1020.55] connected. Sending ping
-[05:33:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[05:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[05:35:57] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[05:35:57] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[05:35:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[05:35:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:48029] logged in with entity id 205082 at (-459.87632391945584, 72.0, 1020.5467788354517)
-[05:35:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[05:35:59] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/205082, l='world', x=-459.88, y=72.00, z=1020.55] connected. Sending ping
-[05:47:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [A Seedy Place]
-[05:48:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [A Seedy Place]
-[05:49:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[05:49:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[05:54:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was blown up by Creeper
-[05:55:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Entity 'CrisNotFound_' cannot be found
-[05:56:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ was kicked for floating too long!
-[05:56:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Flying is not enabled on this server
-[05:56:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[05:57:55] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[05:57:55] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[05:57:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[05:57:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:54245] logged in with entity id 227762 at (-149.15580990643602, 72.00133597911214, 231.4322736832231)
-[05:57:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[05:57:57] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/227762, l='world', x=-149.16, y=72.00, z=231.43] connected. Sending ping
-[05:58:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[05:58:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[05:58:47] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[05:58:47] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[05:58:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[05:58:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:36255] logged in with entity id 228436 at (-149.15580990643602, 72.00133597911214, 231.4322736832231)
-[05:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[05:58:49] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/228436, l='world', x=-149.16, y=72.00, z=231.43] connected. Sending ping
-[05:59:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ was kicked for floating too long!
-[05:59:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Flying is not enabled on this server
-[05:59:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[05:59:50] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[05:59:50] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[05:59:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[05:59:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:36559] logged in with entity id 229425 at (-149.15580990643602, 72.00133597911214, 231.4322736832231)
-[05:59:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[05:59:52] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/229425, l='world', x=-149.16, y=72.00, z=231.43] connected. Sending ping
-[06:02:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported CrissNotFound_ to Shadowxfx
-[06:02:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[06:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[06:07:46] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[06:07:46] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[06:07:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[06:07:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:40025] logged in with entity id 236318 at (-1159.7334323247528, 76.0, 1455.2746896658566)
-[06:07:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[06:07:48] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/236318, l='world', x=-1159.73, y=76.00, z=1455.27] connected. Sending ping
-[06:14:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:14:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[06:19:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Best Friends Forever]
-[06:21:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[06:21:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[06:23:18] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
-[06:23:18] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[06:23:20] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[06:23:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:51015] logged in with entity id 252187 at (-2048.2463539080986, 63.0, 1921.5606852629207)
-[06:23:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[06:23:20] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/252187, l='world', x=-2048.25, y=63.00, z=1921.56] connected. Sending ping
-[06:23:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[06:23:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[06:24:24] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[06:24:24] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3,naturescompass@1.8.5
-[06:24:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[06:24:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:44195] logged in with entity id 254904 at (-2048.2463539080986, 63.0, 1921.5606852629207)
-[06:24:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
-[06:24:26] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/254904, l='world', x=-2048.25, y=63.00, z=1921.56] connected. Sending ping
-[06:36:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Sweet dreams]
-[06:37:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Sweet dreams]
-[06:49:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[06:49:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[06:55:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
-[06:55:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
-[07:02:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Disconnected
-[07:02:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
-[07:06:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[07:06:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[07:06:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[07:06:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[07:06:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[07:06:26] [Server thread/INFO] [FML]: Unloading dimension 0
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -13
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -20
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -15
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -16
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -17
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -18
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -19
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -21
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -22
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1504
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1501
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1500
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1503
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1502
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1505
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1506
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1507
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1508
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1509
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1510
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1511
-[07:06:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
-[07:06:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[08:40:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[08:40:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[08:40:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[08:40:04] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[08:40:04] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.8.0-1026-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[08:40:04] [main/INFO] [FML]: Searching /workspaces/MSP-2.5/servidor_minecraft/./mods for mods
+[08:40:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.7.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:40:04] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[08:40:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:40:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[08:40:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:40:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:40:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:40:06] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[08:40:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:40:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:40:06] [main/INFO] [MicdoodleCore]: Successfully Registered Transformer
+[08:40:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[08:40:06] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[08:40:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[08:40:07] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[08:40:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[08:40:10] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[08:40:10] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[08:40:10] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[08:40:11] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[08:40:11] [Server thread/INFO] [FML]: Searching /workspaces/MSP-2.5/servidor_minecraft/./mods for mods
+[08:40:12] [Server thread/INFO] [FML]: Forge Mod Loader has identified 12 mods to load
+[08:40:12] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[08:40:12] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
+[08:40:12] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, extraplanets, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib, naturescompass] at CLIENT
+[08:40:12] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, extraplanets, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib, naturescompass] at SERVER
+[08:40:12] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[08:40:12] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[08:40:12] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[08:40:12] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[08:40:12] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[08:40:12] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[08:40:13] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsmercury dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 4 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsjuptier dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 5 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssaturn dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 6 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsuranus dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 7 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsneptune dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 8 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetspluto dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 9 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetseris dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 10 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit fake`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedrefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimaterefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssolar panel`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decrystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic crystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic smasher`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic chemical injector`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic solar evaporation chamber`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic purifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedfuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimatefuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic densifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsvehiclechanger`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[08:40:16] [Server thread/INFO] [FML]: Applying holder lookups
+[08:40:16] [Server thread/INFO] [FML]: Holder lookups applied
+[08:40:16] [Server thread/INFO] [FML]: Applying holder lookups
+[08:40:16] [Server thread/INFO] [FML]: Holder lookups applied
+[08:40:16] [Server thread/INFO] [FML]: Applying holder lookups
+[08:40:16] [Server thread/INFO] [FML]: Holder lookups applied
+[08:40:16] [Server thread/INFO] [FML]: Applying holder lookups
+[08:40:16] [Server thread/INFO] [FML]: Holder lookups applied
+[08:40:16] [Server thread/INFO] [FML]: Injecting itemstacks
+[08:40:16] [Server thread/INFO] [FML]: Itemstack injection complete
+[08:40:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[08:40:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[08:40:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[08:40:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[08:40:16] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[08:40:16] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:40:16] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[08:40:16] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:40:16] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:40:16] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MorePlanets Compatibility, this is most likey intended!
+[08:40:16] [Server thread/INFO] [FML]: Applying holder lookups
+[08:40:16] [Server thread/INFO] [FML]: Holder lookups applied
+[08:40:17] [Server thread/INFO] [FML]: Injecting itemstacks
+[08:40:17] [Server thread/INFO] [FML]: Itemstack injection complete
+[08:40:17] [Server thread/INFO] [GalacticraftCore]: Activating WAILA compatibility features.
+[08:40:17] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up ExtremeReactors Compatibility, this is most likey intended!
+[08:40:17] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MCMultiPart Compatibility, this is most likey intended!
+[08:40:17] [Server thread/INFO] [Waila]: Starting Waila...
+[08:40:17] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[08:40:17] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[08:40:17] [Server thread/INFO] [Waila]: Registering plugins...
+[08:40:17] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[08:40:17] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[08:40:17] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[08:40:17] [Server thread/INFO] [Waila]: Starting Waila took 28.86 ms
+[08:40:17] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 12 mods
+[08:40:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[08:40:17] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[08:40:18] [Server thread/INFO] [FML]: Applying holder lookups
+[08:40:18] [Server thread/INFO] [FML]: Holder lookups applied
+[08:40:18] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[08:40:18] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4e7401bc)
+[08:40:18] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 516 advancements
+[08:40:18] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4e7401bc)
+[08:40:18] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4e7401bc)
+[08:40:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[08:40:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[08:40:20] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[08:40:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.299s)! For help, type "help" or "?"
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -13
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -20
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -15
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -16
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -17
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -18
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -19
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -21
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -22
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -29
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -30
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -31
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1504
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1501
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1500
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1503
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1502
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1505
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1506
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1507
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1508
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1509
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1510
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1511
+[08:40:20] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -28
+[08:40:21] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:40:21] [Server thread/INFO] [FML]: Unloading dimension 1
+[08:40:28] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[08:40:28] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,schematica@1.8.0.169,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.0,mcp@9.42,lunatriuscore@1.2.0.42,naturescompass@1.8.5
+[08:40:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[08:40:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.110.109.185:44977] logged in with entity id 268 at (-2243.8857224706585, 27.0, 2024.6680738407745)
+[08:40:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[08:40:30] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/268, l='world', x=-2243.89, y=27.00, z=2024.67] connected. Sending ping
+[08:43:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Disconnected
+[08:43:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[08:46:31] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[08:46:31] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,schematica@1.8.0.169,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.0,mcp@9.42,lunatriuscore@1.2.0.42,naturescompass@1.8.5
+[08:46:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[08:46:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.110.109.185:39541] logged in with entity id 1941 at (-2248.300000011921, 28.0, 2027.7149856309325)
+[08:46:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[08:46:33] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/1941, l='world', x=-2248.30, y=28.00, z=2027.71] connected. Sending ping
