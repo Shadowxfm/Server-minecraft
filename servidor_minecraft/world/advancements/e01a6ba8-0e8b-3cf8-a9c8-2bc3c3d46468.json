@@ -734,6 +734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-05-05 01:02:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-05-04 01:23:56 +0000"
@@ -1045,6 +1051,18 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-05-04 00:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-05-05 01:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-05-05 01:02:09 +0000"
     },
     "done": true
   },
