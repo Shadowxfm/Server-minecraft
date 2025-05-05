@@ -10000,3 +10000,66 @@
 [03:38:30] [Server thread/DEBUG] [FML]: The world 5338d4ab (world) may have leaked: seen 1080 times.
 
 [03:38:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:39:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:39:20] [Server thread/DEBUG] [FML]: The world 6e3bf845 (world) may have leaked: seen 1085 times.
+
+[03:39:20] [Server thread/DEBUG] [FML]: The world 5338d4ab (world) may have leaked: seen 1085 times.
+
+[03:40:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:40:10] [Server thread/DEBUG] [FML]: The world 6e3bf845 (world) may have leaked: seen 1090 times.
+
+[03:40:10] [Server thread/DEBUG] [FML]: The world 5338d4ab (world) may have leaked: seen 1090 times.
+
+[03:40:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:41:00] [Server thread/DEBUG] [FML]: The world 6e3bf845 (world) may have leaked: seen 1095 times.
+
+[03:41:00] [Server thread/DEBUG] [FML]: The world 5338d4ab (world) may have leaked: seen 1095 times.
+
+[03:41:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:41:50] [Server thread/DEBUG] [FML]: The world 6e3bf845 (world) may have leaked: seen 1100 times.
+
+[03:41:50] [Server thread/DEBUG] [FML]: The world 5338d4ab (world) may have leaked: seen 1100 times.
+
+[03:42:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:42:40] [Server thread/DEBUG] [FML]: The world 6e3bf845 (world) may have leaked: seen 1105 times.
+
+[03:42:40] [Server thread/DEBUG] [FML]: The world 5338d4ab (world) may have leaked: seen 1105 times.
+
+[03:42:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was blown up by Creeper
+[03:43:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:43:30] [Server thread/DEBUG] [FML]: The world 6e3bf845 (world) may have leaked: seen 1110 times.
+
+[03:43:30] [Server thread/DEBUG] [FML]: The world 5338d4ab (world) may have leaked: seen 1110 times.
+
+[03:43:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:44:20] [Server thread/DEBUG] [FML]: The world 6e3bf845 (world) may have leaked: seen 1115 times.
+
+[03:44:20] [Server thread/DEBUG] [FML]: The world 5338d4ab (world) may have leaked: seen 1115 times.
+
+[03:44:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:45:10] [Server thread/DEBUG] [FML]: The world 6e3bf845 (world) may have leaked: seen 1120 times.
+
+[03:45:10] [Server thread/DEBUG] [FML]: The world 5338d4ab (world) may have leaked: seen 1120 times.
+
+[03:45:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:46:00] [Server thread/DEBUG] [FML]: The world 6e3bf845 (world) may have leaked: seen 1125 times.
+
+[03:46:00] [Server thread/DEBUG] [FML]: The world 5338d4ab (world) may have leaked: seen 1125 times.
+
+[03:46:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:46:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:46:50] [Server thread/DEBUG] [FML]: The world 6e3bf845 (world) may have leaked: seen 1130 times.
+
+[03:46:50] [Server thread/DEBUG] [FML]: The world 5338d4ab (world) may have leaked: seen 1130 times.
+
+[03:47:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:47:40] [Server thread/DEBUG] [FML]: The world 6e3bf845 (world) may have leaked: seen 1135 times.
+
+[03:47:40] [Server thread/DEBUG] [FML]: The world 5338d4ab (world) may have leaked: seen 1135 times.
+
+[03:48:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:48:30] [Server thread/DEBUG] [FML]: The world 6e3bf845 (world) may have leaked: seen 1140 times.
+
+[03:48:30] [Server thread/DEBUG] [FML]: The world 5338d4ab (world) may have leaked: seen 1140 times.
+
+[03:49:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
