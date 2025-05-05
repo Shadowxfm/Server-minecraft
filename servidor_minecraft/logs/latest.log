@@ -192,3 +192,5 @@
 [01:08:46] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/27865, l='world', x=-2268.06, y=67.00, z=1953.24] connected. Sending ping
 [01:14:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
 [01:14:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
+[01:28:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Disconnected
+[01:28:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
