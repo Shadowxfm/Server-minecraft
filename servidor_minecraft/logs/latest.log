@@ -236,3 +236,8 @@
 [02:01:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:57867] logged in with entity id 78139 at (-2262.909397302828, 67.0, 1955.3938683254978)
 [02:01:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
 [02:01:25] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/78139, l='world', x=-2262.91, y=67.00, z=1955.39] connected. Sending ping
+[02:19:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> sabes noto algo de diferencia pero aun tiene picos de lag
+[02:20:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowxfx> bueno esperemos que almenos no lo saque
+[02:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> baja a 1 fps de la nada
+[02:28:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
+[02:28:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
