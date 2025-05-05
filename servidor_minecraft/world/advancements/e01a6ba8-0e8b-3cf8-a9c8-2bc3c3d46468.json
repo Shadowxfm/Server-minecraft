@@ -909,6 +909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2025-05-05 03:33:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-04 00:59:28 +0000"
@@ -955,7 +961,8 @@
     "criteria": {
       "skeleton": "2025-05-04 01:52:55 +0000",
       "zombie": "2025-05-04 01:42:14 +0000",
-      "spider": "2025-05-04 03:26:05 +0000"
+      "spider": "2025-05-04 03:26:05 +0000",
+      "creeper": "2025-05-05 03:32:30 +0000"
     },
     "done": false
   },
@@ -1028,6 +1035,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-05 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-05-05 03:33:32 +0000"
     },
     "done": true
   },
