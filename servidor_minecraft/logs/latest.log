@@ -20,3 +20,5 @@
 [00:05:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:45271] logged in with entity id 14682 at (-2267.2441046082786, 67.0, 1953.9400764746126)
 [00:05:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
 [00:05:52] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/14682, l='world', x=-2267.24, y=67.00, z=1953.94] connected. Sending ping
+[00:11:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
+[00:11:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
