@@ -319,6 +319,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-27 01:24:53 +0000",
       "cooked_mutton": "2025-05-27 00:39:32 +0000",
       "apple": "2025-05-26 21:25:04 +0000",
       "rotten_flesh": "2025-05-26 21:19:33 +0000",
@@ -586,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-27 01:53:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-05-27 00:08:34 +0000"
@@ -758,7 +765,8 @@
     "criteria": {
       "zombie_villager": "2025-05-27 00:40:27 +0000",
       "skeleton": "2025-05-26 22:15:17 +0000",
-      "zombie": "2025-05-26 20:36:17 +0000"
+      "zombie": "2025-05-26 20:36:17 +0000",
+      "spider": "2025-05-27 01:56:50 +0000"
     },
     "done": false
   },
@@ -795,6 +803,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-05-27 00:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2025-05-27 01:27:29 +0000"
     },
     "done": true
   },
