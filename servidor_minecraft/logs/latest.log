@@ -248,3 +248,50 @@
 [01:00:53] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/46547, l='world', x=191.50, y=69.00, z=224.50] connected. Sending ping
 [01:01:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
 [01:01:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[01:13:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Ice Bucket Challenge]
+[01:15:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:15:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:16:13] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[01:16:13] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,schematica@1.8.0.169,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,controllable@0.11.2,xaerominimap@25.2.0,mcp@9.42,lunatriuscore@1.2.0.42
+[01:16:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:16:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.236.252.126:52783] logged in with entity id 57674 at (191.5, 69.0, 224.5)
+[01:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[01:16:15] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/57674, l='world', x=191.50, y=69.00, z=224.50] connected. Sending ping
+[01:16:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[01:16:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[01:17:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Timed out
+[01:17:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
+[01:17:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:17:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:17:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:17:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:17:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[01:17:30] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -13
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -20
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -15
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -16
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -17
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -18
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -19
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -21
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -22
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1504
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1501
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1500
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1503
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1502
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1505
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1506
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1507
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1508
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1509
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1510
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1511
+[01:17:30] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
+[01:17:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:17:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:17:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
