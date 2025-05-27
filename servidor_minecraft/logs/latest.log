@@ -1,195 +1,77 @@
-[21:28:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[21:28:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[21:28:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[21:28:54] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[21:28:54] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[21:28:54] [main/INFO] [FML]: Searching /workspaces/MSP-2.5/servidor_minecraft/./mods for mods
-[21:28:54] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.7.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[21:28:54] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
-[21:28:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:28:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[21:28:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:28:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:28:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:28:55] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[21:28:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:28:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:28:55] [main/INFO] [MicdoodleCore]: Successfully Registered Transformer
-[21:28:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[21:28:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[21:28:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[21:28:56] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[21:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[21:28:59] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[21:28:59] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[21:28:59] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[21:28:59] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[21:28:59] [Server thread/INFO] [FML]: Searching /workspaces/MSP-2.5/servidor_minecraft/./mods for mods
-[21:29:00] [Server thread/INFO] [FML]: Forge Mod Loader has identified 11 mods to load
-[21:29:00] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[21:29:00] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
-[21:29:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, extraplanets, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib] at CLIENT
-[21:29:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, extraplanets, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib] at SERVER
-[21:29:00] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[21:29:00] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[21:29:00] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[21:29:00] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[21:29:01] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[21:29:01] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[21:29:01] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsmercury dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 4 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsjuptier dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 5 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssaturn dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 6 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsuranus dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 7 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsneptune dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 8 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetspluto dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 9 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetseris dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 10 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit fake`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedrefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimaterefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssolar panel`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decrystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic crystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic smasher`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic chemical injector`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic solar evaporation chamber`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic purifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedfuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimatefuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic densifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsvehiclechanger`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:29:04] [Server thread/INFO] [FML]: Applying holder lookups
-[21:29:04] [Server thread/INFO] [FML]: Holder lookups applied
-[21:29:04] [Server thread/INFO] [FML]: Applying holder lookups
-[21:29:04] [Server thread/INFO] [FML]: Holder lookups applied
-[21:29:04] [Server thread/INFO] [FML]: Applying holder lookups
-[21:29:04] [Server thread/INFO] [FML]: Holder lookups applied
-[21:29:04] [Server thread/INFO] [FML]: Applying holder lookups
-[21:29:04] [Server thread/INFO] [FML]: Holder lookups applied
-[21:29:04] [Server thread/INFO] [FML]: Injecting itemstacks
-[21:29:04] [Server thread/INFO] [FML]: Itemstack injection complete
-[21:29:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[21:29:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[21:29:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[21:29:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[21:29:04] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[21:29:04] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:29:04] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[21:29:04] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:29:04] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:29:04] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MorePlanets Compatibility, this is most likey intended!
-[21:29:04] [Server thread/INFO] [FML]: Applying holder lookups
-[21:29:04] [Server thread/INFO] [FML]: Holder lookups applied
-[21:29:05] [Server thread/INFO] [FML]: Injecting itemstacks
-[21:29:05] [Server thread/INFO] [FML]: Itemstack injection complete
-[21:29:05] [Server thread/INFO] [GalacticraftCore]: Activating WAILA compatibility features.
-[21:29:05] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up ExtremeReactors Compatibility, this is most likey intended!
-[21:29:05] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MCMultiPart Compatibility, this is most likey intended!
-[21:29:05] [Server thread/INFO] [Waila]: Starting Waila...
-[21:29:05] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[21:29:05] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[21:29:05] [Server thread/INFO] [Waila]: Registering plugins...
-[21:29:05] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[21:29:05] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[21:29:05] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[21:29:05] [Server thread/INFO] [Waila]: Starting Waila took 31.19 ms
-[21:29:05] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 11 mods
-[21:29:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[21:29:05] [Server thread/ERROR] [FML.ModTracker]: This world was saved with mod betterthirdperson which appears to be missing, things may not work well
-[21:29:05] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[21:29:05] [Server thread/INFO] [FML]: Applying holder lookups
-[21:29:05] [Server thread/INFO] [FML]: Holder lookups applied
-[21:29:05] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@3adfd170)
-[21:29:06] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 516 advancements
-[21:29:06] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3adfd170)
-[21:29:06] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@3adfd170)
-[21:29:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[21:29:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 90%
-[21:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.818s)! For help, type "help" or "?"
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -13
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -20
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -15
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -16
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -17
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -18
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -19
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -21
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -22
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -29
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -30
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -31
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1504
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1501
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1500
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1503
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1502
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1505
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1506
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1507
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1508
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1509
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1510
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1511
-[21:29:07] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -28
-[21:29:08] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:29:08] [Server thread/INFO] [FML]: Unloading dimension 1
-[21:29:21] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[21:29:21] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,controllable@0.11.2,xaerominimap@25.2.0,mcp@9.42,lunatriuscore@1.2.0.42
-[21:29:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:29:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.236.252.126:43627] logged in with entity id 416 at (202.43657252201334, 63.0, 282.45443094506095)
-[21:29:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[21:29:23] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/416, l='world', x=202.44, y=63.00, z=282.45] connected. Sending ping
-[21:33:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was slain by Zombie
-[21:33:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[21:33:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[21:33:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[21:33:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[21:33:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[21:33:37] [Server thread/INFO] [FML]: Unloading dimension 0
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -13
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -20
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -15
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -16
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -17
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -18
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -19
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -21
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -22
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1504
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1501
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1500
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1503
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1502
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1505
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1506
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1507
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1508
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1509
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1510
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1511
-[21:33:37] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
-[21:33:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[21:33:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:00:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> buenas
+[00:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> tuve que escarvar todo curseforge buscando mods de optimizacion
+[00:04:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> volviste
+[00:04:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowxfx> si jaja
+[00:04:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> subi ya que necesitamos comida
+[00:05:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowxfx> a claro
+[00:05:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was shot by Skeleton
+[00:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowxfx> jajaja
+[00:05:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowxfx> que paso
+[00:06:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was shot by Skeleton
+[00:06:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ was slain by Spider
+[00:15:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[00:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[00:15:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[00:16:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Suit Up]
+[00:19:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was shot by Skeleton
+[00:19:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx was kicked for floating too long!
+[00:19:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Flying is not enabled on this server
+[00:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[00:20:06] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[00:20:06] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,schematica@1.8.0.169,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,controllable@0.11.2,xaerominimap@25.2.0,mcp@9.42,lunatriuscore@1.2.0.42
+[00:20:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:20:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.236.252.126:35589] logged in with entity id 177385 at (190.5, 71.0, 224.5)
+[00:20:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[00:20:08] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/177385, l='world', x=190.50, y=71.00, z=224.50] connected. Sending ping
+[00:20:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was blown up by Creeper
+[00:20:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[00:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[00:21:15] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[00:21:15] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,schematica@1.8.0.169,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,controllable@0.11.2,xaerominimap@25.2.0,mcp@9.42,lunatriuscore@1.2.0.42
+[00:21:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:21:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.236.252.126:56343] logged in with entity id 178267 at (190.5, 71.0, 224.5)
+[00:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[00:21:17] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/178267, l='world', x=190.50, y=71.00, z=224.50] connected. Sending ping
+[00:21:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[00:21:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[00:23:26] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[00:23:26] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,schematica@1.8.0.169,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,controllable@0.11.2,xaerominimap@25.2.0,mcp@9.42,lunatriuscore@1.2.0.42
+[00:23:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:23:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.236.252.126:34639] logged in with entity id 180920 at (190.5, 71.0, 224.5)
+[00:23:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[00:23:28] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/180920, l='world', x=190.50, y=71.00, z=224.50] connected. Sending ping
+[00:23:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[00:23:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[00:24:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[00:24:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:24:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:24:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:24:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[00:24:18] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -13
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -20
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -15
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -16
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -17
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -18
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -19
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -21
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -22
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1504
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1501
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1500
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1503
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1502
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1505
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1506
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1507
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1508
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1509
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1510
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1511
+[00:24:18] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
+[00:24:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:24:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
