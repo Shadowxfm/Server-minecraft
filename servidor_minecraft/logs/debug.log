@@ -8848,3 +8848,125 @@
 
 [19:54:08] [Server thread/DEBUG] [FML]: The world 13a47e18 (world) may have leaked: seen 235 times.
 
+[19:54:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:54:58] [Server thread/DEBUG] [FML]: The world 6e03333d (world) may have leaked: seen 240 times.
+
+[19:54:58] [Server thread/DEBUG] [FML]: The world 13a47e18 (world) may have leaked: seen 240 times.
+
+[19:55:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:55:48] [Server thread/DEBUG] [FML]: The world 6e03333d (world) may have leaked: seen 245 times.
+
+[19:55:48] [Server thread/DEBUG] [FML]: The world 13a47e18 (world) may have leaked: seen 245 times.
+
+[19:56:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:56:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Disconnected
+[19:56:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[19:56:38] [Server thread/DEBUG] [FML]: The world 6e03333d (world) may have leaked: seen 250 times.
+
+[19:56:38] [Server thread/DEBUG] [FML]: The world 13a47e18 (world) may have leaked: seen 250 times.
+
+[19:56:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'Shadowxfx' cannot be found
+[19:56:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:57:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod minecraft
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod minecraft
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mcp
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mcp
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod FML
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod FML
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod forge
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod forge
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod micdoodlecore
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod micdoodlecore
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Micdoodle8 Core took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod galacticraftcore
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod galacticraftcore
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Galacticraft took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod galacticraftplanets
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod galacticraftplanets
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Galacticraft Planets took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mjrlegendslib
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mjrlegendslib
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - MJRLegendsLib took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod extraplanets
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod extraplanets
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Extra Planets took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod waila
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod waila
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Waila took 0.001s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod jei
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod jei
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Just Enough Items took 0.000s
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopping took 0.002s
+[19:57:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:57:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:57:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[19:57:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[19:57:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:57:05] [Server thread/INFO] [FML]: Unloading dimension 0
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod micdoodlecore
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod micdoodlecore
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Micdoodle8 Core took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod galacticraftcore
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -13
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -20
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -15
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -16
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -17
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -18
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -19
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -21
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -22
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1504
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1501
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1500
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1503
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1502
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1505
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1506
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1507
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1508
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1509
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1510
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1511
+[19:57:05] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod galacticraftcore
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Galacticraft took 0.002s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod galacticraftplanets
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod galacticraftplanets
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Galacticraft Planets took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mjrlegendslib
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mjrlegendslib
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MJRLegendsLib took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod extraplanets
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod extraplanets
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Extra Planets took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod waila
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod waila
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Waila took 0.000s
+[19:57:05] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod jei
+[19:57:05] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod jei
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Just Enough Items took 0.000s
+[19:57:05] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.004s
+[19:57:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:57:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:57:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
