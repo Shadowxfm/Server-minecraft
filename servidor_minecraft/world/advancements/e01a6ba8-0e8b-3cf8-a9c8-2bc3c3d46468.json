@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-27 00:38:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-05-26 20:22:28 +0000"
@@ -233,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-27 00:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-05-26 22:15:05 +0000"
@@ -307,6 +319,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-05-27 00:39:32 +0000",
       "apple": "2025-05-26 21:25:04 +0000",
       "rotten_flesh": "2025-05-26 21:19:33 +0000",
       "cooked_chicken": "2025-05-27 00:11:48 +0000"
@@ -717,6 +730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-27 00:38:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-26 22:34:28 +0000"
@@ -737,6 +756,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2025-05-27 00:40:27 +0000",
       "skeleton": "2025-05-26 22:15:17 +0000",
       "zombie": "2025-05-26 20:36:17 +0000"
     },
@@ -745,6 +765,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-26 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-05-27 00:38:49 +0000"
     },
     "done": true
   },
