@@ -230,10 +230,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-27 00:17:01 +0000",
+      "cooked_beef": "2025-06-14 02:12:36 +0000",
       "rotten_flesh": "2025-05-26 21:56:31 +0000",
       "cooked_chicken": "2025-05-27 00:16:23 +0000"
     },
     "done": false
+  },
+  "galacticraftcore:galacticraft/basic_wafer": {
+    "criteria": {
+      "compressor": "2025-06-14 02:18:05 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -349,6 +356,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/coal_generator": {
+    "criteria": {
+      "coal_generator": "2025-06-14 02:07:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-27 00:17:51 +0000"
@@ -369,7 +382,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "bred_chicken": "2025-06-14 00:10:32 +0000"
+      "bred_chicken": "2025-06-14 00:10:32 +0000",
+      "bred_sheep": "2025-06-14 02:12:45 +0000"
     },
     "done": false
   },
@@ -614,6 +628,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/circuit_fabricator": {
+    "criteria": {
+      "circuit_fabricator": "2025-06-14 02:11:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-27 00:23:16 +0000"
@@ -788,6 +808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-14 02:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-05-26 21:52:39 +0000"
@@ -902,6 +928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-14 02:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 22:27:38 +0000"
@@ -965,6 +997,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-05-27 00:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-14 02:11:08 +0000"
     },
     "done": true
   },
@@ -1036,6 +1074,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-06-14 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-14 02:10:33 +0000"
     },
     "done": true
   },
@@ -1120,6 +1164,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_chicken": "2025-06-14 00:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-06-14 02:10:33 +0000"
     },
     "done": true
   },
