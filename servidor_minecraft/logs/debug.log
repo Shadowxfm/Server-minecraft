@@ -8697,3 +8697,69 @@
 
 [02:59:14] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 55 times.
 
+[02:59:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:00:04] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 60 times.
+
+[03:00:04] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 60 times.
+
+[03:00:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:00:54] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 65 times.
+
+[03:00:54] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 65 times.
+
+[03:01:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:01:44] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 70 times.
+
+[03:01:44] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 70 times.
+
+[03:02:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Given [Spruce Wood] * 64 to Shadowxfx
+[03:02:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:02:34] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 75 times.
+
+[03:02:34] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 75 times.
+
+[03:02:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:03:24] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 80 times.
+
+[03:03:24] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 80 times.
+
+[03:03:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:04:14] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 85 times.
+
+[03:04:14] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 85 times.
+
+[03:04:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:05:04] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 90 times.
+
+[03:05:04] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 90 times.
+
+[03:05:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:05:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:05:54] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 95 times.
+
+[03:05:54] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 95 times.
+
+[03:06:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:06:44] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 100 times.
+
+[03:06:44] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 100 times.
+
+[03:07:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:07:34] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 105 times.
+
+[03:07:34] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 105 times.
+
+[03:08:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:08:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx fell from a high place
+[03:08:24] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 110 times.
+
+[03:08:24] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 110 times.
+
+[03:08:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:09:14] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 115 times.
+
+[03:09:14] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 115 times.
+
+[03:09:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:09:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ moved too quickly! 0.6173001254455812,-10.534183657327532,-0.40624730767086703
+[03:09:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ fell from a high place
