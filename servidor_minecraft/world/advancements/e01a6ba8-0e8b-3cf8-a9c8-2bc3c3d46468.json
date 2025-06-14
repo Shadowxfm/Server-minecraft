@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-14 01:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2025-05-26 22:00:07 +0000"
@@ -609,6 +615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-06-14 01:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-05-27 00:08:34 +0000"
@@ -660,8 +672,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-05-26 19:56:37 +0000",
+      "birch_forest": "2025-06-14 01:23:49 +0000",
       "forest_hills": "2025-05-26 19:56:02 +0000",
       "plains": "2025-05-26 19:55:11 +0000",
+      "roofed_forest": "2025-06-14 01:29:04 +0000",
       "river": "2025-05-27 19:55:27 +0000"
     },
     "done": false
