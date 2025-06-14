@@ -235,3 +235,5 @@
 [05:07:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There is no such item with name minecraft:gamemode
 [05:07:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Shadowxfx's game mode to Creative Mode
 [05:19:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[05:27:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Shadowxfx's game mode to Survival Mode
+[05:30:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Shadowxfx's game mode to Creative Mode
