@@ -39,3 +39,16 @@
 [01:15:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:46695] logged in with entity id 155856 at (-313.69999998807907, 54.0, 248.6999999880791)
 [01:15:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
 [01:15:31] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/155856, l='world', x=-313.70, y=54.00, z=248.70] connected. Sending ping
+[01:31:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:31:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:31:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:34:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There is no such item with name minecraft:spruce_wood
+[01:37:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[01:37:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[01:38:24] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[01:38:24] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,schematica@1.8.0.169,extraplanets@1.12.2-0.8.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,controllable@0.11.2,xaerominimap@25.2.0,mcp@9.42,lunatriuscore@1.2.0.42
+[01:38:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:38:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:42763] logged in with entity id 195750 at (-212.5548133130168, 71.0, 715.376972624521)
+[01:38:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[01:38:25] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/195750, l='world', x=-212.55, y=71.00, z=715.38] connected. Sending ping
+[01:39:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Given [Spruce Wood] * 64 to Shadowxfx
