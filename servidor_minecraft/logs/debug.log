@@ -9394,3 +9394,77 @@
 [04:50:04] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 720 times.
 
 [04:50:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:50:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:50:54] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 725 times.
+
+[04:50:54] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 725 times.
+
+[04:50:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> yo estoy empezando con lo basico del Galactic
+[04:51:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:51:44] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 730 times.
+
+[04:51:44] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 730 times.
+
+[04:52:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'Shadow' cannot be found
+[04:52:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:52:34] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 735 times.
+
+[04:52:34] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 735 times.
+
+[04:52:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Given [Stone Bricks] * 64 to Shadowxfx
+[04:52:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Given [Stone Bricks] * 64 to Shadowxfx
+[04:52:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Given [Stone Bricks] * 64 to Shadowxfx
+[04:52:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowxfx> epa
+[04:52:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowxfx> epa
+[04:52:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> mira el cofre del tercer piso
+[04:53:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowxfx> jaja se escribo 2
+[04:53:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:53:24] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 740 times.
+
+[04:53:24] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 740 times.
+
+[04:53:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:54:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowxfx> uff
+[04:54:14] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 745 times.
+
+[04:54:14] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 745 times.
+
+[04:54:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowxfx> hay va
+[04:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> lo dificil va a hacer las maquinas
+[04:54:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowxfx> jajaja
+[04:54:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:04] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 750 times.
+
+[04:55:04] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 750 times.
+
+[04:55:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:54] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 755 times.
+
+[04:55:54] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 755 times.
+
+[04:56:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:56:44] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 760 times.
+
+[04:56:44] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 760 times.
+
+[04:56:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:57:34] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 765 times.
+
+[04:57:34] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 765 times.
+
+[04:57:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:58:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:58:24] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 770 times.
+
+[04:58:24] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 770 times.
+
+[04:59:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:59:14] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 775 times.
+
+[04:59:14] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 775 times.
+
+[04:59:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:00:04] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 780 times.
+
+[05:00:04] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 780 times.
+
