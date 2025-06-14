@@ -9140,3 +9140,68 @@
 
 [04:10:04] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 480 times.
 
+[04:10:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:10:54] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 485 times.
+
+[04:10:54] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 485 times.
+
+[04:11:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:11:44] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 490 times.
+
+[04:11:44] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 490 times.
+
+[04:11:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:11:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx tried to swim in lava
+[04:12:34] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 495 times.
+
+[04:12:34] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 495 times.
+
+[04:12:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:24] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 500 times.
+
+[04:13:24] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 500 times.
+
+[04:14:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:14:14] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 505 times.
+
+[04:14:14] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 505 times.
+
+[04:14:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:04] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 510 times.
+
+[04:15:04] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 510 times.
+
+[04:15:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:54] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 515 times.
+
+[04:15:54] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 515 times.
+
+[04:16:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:16:44] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 520 times.
+
+[04:16:44] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 520 times.
+
+[04:17:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:17:34] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 525 times.
+
+[04:17:34] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 525 times.
+
+[04:17:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:18:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: The number you have entered (364) is too big, it must be at most 64
+[04:18:24] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 530 times.
+
+[04:18:24] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 530 times.
+
+[04:18:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:18:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Given [Sandstone] * 64 to Shadowxfx
+[04:19:14] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 535 times.
+
+[04:19:14] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 535 times.
+
+[04:19:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:20:04] [Server thread/DEBUG] [FML]: The world 39ab1278 (world) may have leaked: seen 540 times.
+
+[04:20:04] [Server thread/DEBUG] [FML]: The world 764e5451 (world) may have leaked: seen 540 times.
+
+[04:20:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
