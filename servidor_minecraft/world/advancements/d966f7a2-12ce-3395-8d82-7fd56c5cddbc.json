@@ -5,6 +5,36 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-14 02:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-14 02:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2025-06-14 02:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2025-06-14 02:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2025-06-14 02:34:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-06-14 02:18:32 +0000"
@@ -23,23 +53,31 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "minecraft:recipes/transportation/boat": {
     "criteria": {
-      "iron_pickaxe": "2025-06-14 02:18:48 +0000"
+      "entered_water": "2025-06-14 02:34:25 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "consumed_item": "2025-06-14 02:16:22 +0000"
+      "entered_water": "2025-06-14 02:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2025-06-14 02:34:25 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-06-14 02:12:42 +0000",
+      "birch_forest": "2025-06-14 02:33:52 +0000",
       "forest_hills": "2025-06-14 02:11:38 +0000",
-      "plains": "2025-06-14 02:11:49 +0000"
+      "plains": "2025-06-14 02:11:49 +0000",
+      "roofed_forest": "2025-06-14 02:35:02 +0000"
     },
     "done": false
   }
