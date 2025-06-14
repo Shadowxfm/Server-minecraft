@@ -232,7 +232,8 @@
       "cooked_porkchop": "2025-05-27 00:17:01 +0000",
       "cooked_beef": "2025-06-14 02:12:36 +0000",
       "rotten_flesh": "2025-05-26 21:56:31 +0000",
-      "cooked_chicken": "2025-05-27 00:16:23 +0000"
+      "cooked_chicken": "2025-05-27 00:16:23 +0000",
+      "carrot": "2025-06-14 02:26:23 +0000"
     },
     "done": false
   },
@@ -287,6 +288,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-05-26 22:23:47 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/compressor": {
+    "criteria": {
+      "compressor": "2025-06-14 02:25:51 +0000"
     },
     "done": true
   },
@@ -685,6 +692,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-26 22:34:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 02:22:42 +0000"
     },
     "done": true
   },
