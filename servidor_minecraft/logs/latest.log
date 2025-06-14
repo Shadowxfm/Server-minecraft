@@ -188,3 +188,6 @@
 [04:18:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: The number you have entered (364) is too big, it must be at most 64
 [04:18:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Given [Sandstone] * 64 to Shadowxfx
 [04:23:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Given [Sandstone] * 64 to Shadowxfx
+[04:30:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There is no such item with name minecraft:mi
+[04:30:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Given [Spruce Wood] * 64 to Shadowxfx
+[04:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Given [Sandstone] * 64 to Shadowxfx
