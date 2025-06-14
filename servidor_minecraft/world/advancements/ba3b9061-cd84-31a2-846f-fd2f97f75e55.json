@@ -379,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-14 00:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 22:27:38 +0000"
@@ -910,11 +916,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-14 00:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2025-05-27 01:29:03 +0000",
       "skeleton": "2025-05-27 00:06:59 +0000",
       "zombie": "2025-05-26 21:56:14 +0000",
+      "witch": "2025-06-14 00:48:59 +0000",
       "spider": "2025-05-26 21:57:31 +0000",
       "creeper": "2025-05-27 00:17:38 +0000",
       "enderman": "2025-06-14 00:26:37 +0000"
