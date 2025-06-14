@@ -167,3 +167,37 @@
 [02:40:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx was kicked for floating too long!
 [02:40:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Flying is not enabled on this server
 [02:40:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[02:41:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Disconnected
+[02:41:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
+[02:42:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[02:42:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:42:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:42:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:42:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[02:42:09] [Server thread/INFO] [FML]: Unloading dimension 0
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -13
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -20
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -15
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -16
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -17
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -18
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -19
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -21
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -22
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1504
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1501
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1500
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1503
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1502
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1505
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1506
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1507
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1508
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1509
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1510
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1511
+[02:42:09] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
+[02:42:09] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
