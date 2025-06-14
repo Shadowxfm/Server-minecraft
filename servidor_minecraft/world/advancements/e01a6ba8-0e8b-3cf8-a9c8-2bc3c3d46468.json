@@ -997,6 +997,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/oil": {
+    "criteria": {
+      "in_oil": "2025-06-14 03:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-05-26 22:16:29 +0000"
