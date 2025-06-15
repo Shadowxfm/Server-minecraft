@@ -197,3 +197,37 @@ Useful Backpacks: Requires version 1.5.4.85 but mod is not found on client.
 [19:27:06] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/531, l='world', x=102.33, y=74.00, z=309.99] connected. Sending ping
 [19:27:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Disconnected
 [19:27:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[19:42:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[19:42:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:42:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:42:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[19:42:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[19:42:08] [Server thread/INFO] [FML]: Unloading dimension 0
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -13
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -20
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -15
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -16
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -17
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -18
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -19
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -21
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -22
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1504
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1501
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1500
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1503
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1502
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1505
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1506
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1507
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1508
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1509
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1510
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1511
+[19:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
+[19:42:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:42:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:42:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
