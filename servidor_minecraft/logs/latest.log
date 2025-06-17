@@ -175,3 +175,5 @@
 [21:29:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Daniel_77op[/127.41.234.113:38809] logged in with entity id 4673 at (74.2628056612, 99.0, 273.10454994674075)
 [21:29:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op joined the game
 [21:29:38] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Daniel_77op'/4673, l='world', x=74.26, y=99.00, z=273.10] connected. Sending ping
+[21:39:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Daniel_77op lost connection: Disconnected
+[21:39:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op left the game
