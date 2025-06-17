@@ -9622,3 +9622,65 @@
 [20:05:47] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/32530, l='world', x=74.33, y=99.00, z=270.30] connected. Sending ping
 [20:05:47] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [20:06:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:06:19] [Server thread/DEBUG] [FML]: The world 2d7a4006 (world) may have leaked: seen 240 times.
+
+[20:06:19] [Server thread/DEBUG] [FML]: The world 617e9da (world) may have leaked: seen 240 times.
+
+[20:06:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:07:09] [Server thread/DEBUG] [FML]: The world 2d7a4006 (world) may have leaked: seen 245 times.
+
+[20:07:09] [Server thread/DEBUG] [FML]: The world 617e9da (world) may have leaked: seen 245 times.
+
+[20:07:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:07:59] [Server thread/DEBUG] [FML]: The world 2d7a4006 (world) may have leaked: seen 250 times.
+
+[20:07:59] [Server thread/DEBUG] [FML]: The world 617e9da (world) may have leaked: seen 250 times.
+
+[20:08:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:08:49] [Server thread/DEBUG] [FML]: The world 2d7a4006 (world) may have leaked: seen 255 times.
+
+[20:08:49] [Server thread/DEBUG] [FML]: The world 617e9da (world) may have leaked: seen 255 times.
+
+[20:09:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:09:39] [Server thread/DEBUG] [FML]: The world 2d7a4006 (world) may have leaked: seen 260 times.
+
+[20:09:39] [Server thread/DEBUG] [FML]: The world 617e9da (world) may have leaked: seen 260 times.
+
+[20:09:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:10:29] [Server thread/DEBUG] [FML]: The world 2d7a4006 (world) may have leaked: seen 265 times.
+
+[20:10:29] [Server thread/DEBUG] [FML]: The world 617e9da (world) may have leaked: seen 265 times.
+
+[20:10:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:11:19] [Server thread/DEBUG] [FML]: The world 2d7a4006 (world) may have leaked: seen 270 times.
+
+[20:11:19] [Server thread/DEBUG] [FML]: The world 617e9da (world) may have leaked: seen 270 times.
+
+[20:11:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:09] [Server thread/DEBUG] [FML]: The world 2d7a4006 (world) may have leaked: seen 275 times.
+
+[20:12:09] [Server thread/DEBUG] [FML]: The world 617e9da (world) may have leaked: seen 275 times.
+
+[20:12:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:59] [Server thread/DEBUG] [FML]: The world 2d7a4006 (world) may have leaked: seen 280 times.
+
+[20:12:59] [Server thread/DEBUG] [FML]: The world 617e9da (world) may have leaked: seen 280 times.
+
+[20:13:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:13:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> soartex fanver
+[20:13:49] [Server thread/DEBUG] [FML]: The world 2d7a4006 (world) may have leaked: seen 285 times.
+
+[20:13:49] [Server thread/DEBUG] [FML]: The world 617e9da (world) may have leaked: seen 285 times.
+
+[20:14:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:14:39] [Server thread/DEBUG] [FML]: The world 2d7a4006 (world) may have leaked: seen 290 times.
+
+[20:14:39] [Server thread/DEBUG] [FML]: The world 617e9da (world) may have leaked: seen 290 times.
+
+[20:15:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:15:29] [Server thread/DEBUG] [FML]: The world 2d7a4006 (world) may have leaked: seen 295 times.
+
+[20:15:29] [Server thread/DEBUG] [FML]: The world 617e9da (world) may have leaked: seen 295 times.
+
+[20:15:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
