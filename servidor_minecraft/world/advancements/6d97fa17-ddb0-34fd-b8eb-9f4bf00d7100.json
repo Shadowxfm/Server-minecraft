@@ -1,0 +1,16 @@
+{
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2025-06-17 21:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2025-06-17 21:19:43 +0000",
+      "forest_hills": "2025-06-17 21:17:41 +0000",
+      "plains": "2025-06-17 21:17:56 +0000"
+    },
+    "done": false
+  }
+}
