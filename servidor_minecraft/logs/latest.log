@@ -171,3 +171,36 @@
 [19:33:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:36563] logged in with entity id 2777 at (73.53368031292683, 114.0, 281.28778720719924)
 [19:33:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
 [19:33:54] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/2777, l='world', x=73.53, y=114.00, z=281.29] connected. Sending ping
+[19:37:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Disconnected
+[19:37:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[19:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[19:39:32] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:39:32] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,usefulbackpacks@1.5.4.85,inventoryhud@3.4.4,FML@8.0.99.99,schematica@1.8.0.169,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,controllable@0.11.2,xaerominimap@25.2.6,mcp@9.42,lunatriuscore@1.2.0.42
+[19:39:34] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:39:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:40871] logged in with entity id 8119 at (74.33196165180937, 99.0, 270.30000001192093)
+[19:39:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[19:39:34] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/8119, l='world', x=74.33, y=99.00, z=270.30] connected. Sending ping
+[19:39:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[19:39:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[19:40:51] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[19:40:51] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,usefulbackpacks@1.5.4.85,inventoryhud@3.4.4,FML@8.0.99.99,schematica@1.8.0.169,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,controllable@0.11.2,xaerominimap@25.2.6,mcp@9.42,lunatriuscore@1.2.0.42
+[19:40:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:40:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:46215] logged in with entity id 8512 at (74.33196165180937, 99.0, 270.30000001192093)
+[19:40:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[19:40:53] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/8512, l='world', x=74.33, y=99.00, z=270.30] connected. Sending ping
+[19:41:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[19:41:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[19:41:37] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[19:41:37] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,usefulbackpacks@1.5.4.85,inventoryhud@3.4.4,FML@8.0.99.99,schematica@1.8.0.169,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,controllable@0.11.2,xaerominimap@25.2.6,mcp@9.42,lunatriuscore@1.2.0.42
+[19:41:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:41:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:40247] logged in with entity id 8784 at (74.33196165180937, 99.0, 270.30000001192093)
+[19:41:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[19:41:41] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/8784, l='world', x=74.33, y=99.00, z=270.30] connected. Sending ping
+[19:41:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[19:41:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[19:46:04] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[19:46:04] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,usefulbackpacks@1.5.4.85,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,waila@1.8.26,jei@4.16.1.301,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3
+[19:46:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:46:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:52557] logged in with entity id 8998 at (75.66047634852457, 99.0, 275.03209871292376)
+[19:46:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
+[19:46:05] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/8998, l='world', x=75.66, y=99.00, z=275.03] connected. Sending ping
