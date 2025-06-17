@@ -601,18 +601,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-14 02:58:46 +0000"
+    },
+    "done": true
+  },
   "galacticraftcore:galacticraft/oxygen_gear": {
     "criteria": {
       "oxygen_gear": "2025-06-14 03:08:52 +0000",
       "oxygen_mask": "2025-06-14 02:59:00 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-06-14 02:58:46 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
