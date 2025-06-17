@@ -167,3 +167,11 @@
 [21:17:41] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Daniel_77op'/315, l='world', x=196.50, y=71.00, z=226.50] connected. Sending ping
 [21:23:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Daniel_77op lost connection: Disconnected
 [21:23:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op left the game
+[21:26:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[21:26:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[21:29:36] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[21:29:36] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,galacticraftcore@4.0.7,usefulbackpacks@1.5.4.85,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,waila@1.8.26,jei@4.16.1.301,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.7.1p3
+[21:29:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:29:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Daniel_77op[/127.41.234.113:38809] logged in with entity id 4673 at (74.2628056612, 99.0, 273.10454994674075)
+[21:29:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op joined the game
+[21:29:38] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Daniel_77op'/4673, l='world', x=74.26, y=99.00, z=273.10] connected. Sending ping
