@@ -236,3 +236,37 @@
 [21:56:11] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/4215, l='world', x=78.63, y=109.00, z=276.08] connected. Sending ping
 [21:56:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
 [21:56:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[21:58:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[21:58:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:58:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:58:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:58:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[21:58:39] [Server thread/INFO] [FML]: Unloading dimension 0
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -13
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -20
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -15
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -16
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -17
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -18
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -19
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -21
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -22
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1504
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1501
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1500
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1503
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1502
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1505
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1506
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1507
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1508
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1509
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1510
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1511
+[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
+[21:58:39] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:58:39] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:58:39] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
