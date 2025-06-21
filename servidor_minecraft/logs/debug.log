@@ -10910,3 +10910,16 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [23:30:33] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [23:31:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:31:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:32:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:33:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:34:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:34:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:35:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:36:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:37:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:37:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:38:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:39:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:40:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:40:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:41:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
