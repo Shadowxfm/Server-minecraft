@@ -944,3 +944,10 @@ Caused by: java.net.UnknownHostException: export.mcpbot.bspk.rs
 [19:09:19] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
 [19:09:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
 [19:09:19] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/39223, l='world', x=72.95, y=83.00, z=300.76] connected. Sending ping
+[19:16:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> pipol
+[19:16:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> pipol
+[19:16:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> pipol
+[19:16:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CrissNotFound_> pipol
+[19:16:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ moved wrongly!
+[19:17:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Disconnected
+[19:17:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
