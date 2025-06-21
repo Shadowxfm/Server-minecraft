@@ -914,6 +914,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/electric_compressor": {
+    "criteria": {
+      "electric_compressor": "2025-06-21 21:36:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-06-14 02:22:42 +0000"
@@ -1433,6 +1439,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-14 02:58:46 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_compressor": {
+    "criteria": {
+      "oxygen_compressor": "2025-06-21 21:38:44 +0000"
     },
     "done": true
   },
