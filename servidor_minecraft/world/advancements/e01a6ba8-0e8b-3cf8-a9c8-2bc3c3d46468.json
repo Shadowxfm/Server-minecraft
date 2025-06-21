@@ -530,6 +530,13 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/oxygen_gear": {
+    "criteria": {
+      "oxygen_gear": "2025-06-21 21:21:14 +0000",
+      "oxygen_mask": "2025-06-21 21:21:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-05-26 20:23:09 +0000"

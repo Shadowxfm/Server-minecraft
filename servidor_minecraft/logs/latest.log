@@ -998,3 +998,5 @@ Caused by: java.net.UnknownHostException: export.mcpbot.bspk.rs
 [20:09:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx fell from a high place
 [20:12:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx was shot by Stray
 [20:59:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Cover Me With Diamonds]
+[21:28:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[21:28:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
