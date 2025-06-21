@@ -1358,6 +1358,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/oxygen_collector": {
+    "criteria": {
+      "oxygen_collector": "2025-06-21 19:58:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2025-06-14 01:27:15 +0000",
