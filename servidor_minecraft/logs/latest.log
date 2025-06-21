@@ -1032,3 +1032,20 @@ Caused by: java.net.UnknownHostException: export.mcpbot.bspk.rs
 [22:47:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op has made the advancement [Acquire Hardware]
 [22:58:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op has made the advancement [Diamonds!]
 [22:58:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op has made the advancement [Monster Hunter]
+[23:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op has made the advancement [Not Today, Thank You]
+[23:07:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Disconnected
+[23:07:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
+[23:12:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Daniel_77op was kicked for floating too long!
+[23:12:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Daniel_77op lost connection: Flying is not enabled on this server
+[23:12:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op left the game
+[23:12:51] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[23:12:51] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
+[23:12:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:12:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Daniel_77op[/127.41.234.113:53119] logged in with entity id 434830 at (71.5, 99.0999984741211, 281.5)
+[23:12:52] [Server thread/INFO] [dsurround]: Player [Daniel_77op] connected with Dynamic Surroundings 3.6.1.0
+[23:12:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op joined the game
+[23:12:52] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Daniel_77op'/434830, l='world', x=71.50, y=99.10, z=281.50] connected. Sending ping
+[23:14:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[23:14:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[23:18:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Daniel_77op lost connection: Disconnected
+[23:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op left the game
