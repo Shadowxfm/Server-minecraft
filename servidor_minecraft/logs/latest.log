@@ -1002,3 +1002,13 @@ Caused by: java.net.UnknownHostException: export.mcpbot.bspk.rs
 [21:28:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
 [21:36:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Electrical Upgrade]
 [21:38:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Compress the air]
+[21:57:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx was kicked for floating too long!
+[21:57:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Flying is not enabled on this server
+[21:57:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[21:58:47] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[21:58:47] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
+[21:58:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:58:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:37363] logged in with entity id 327140 at (73.5, 99.0999984741211, 281.5)
+[21:58:51] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
+[21:58:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[21:58:51] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/327140, l='world', x=73.50, y=99.10, z=281.50] connected. Sending ping
