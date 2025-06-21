@@ -1012,3 +1012,6 @@ Caused by: java.net.UnknownHostException: export.mcpbot.bspk.rs
 [21:58:51] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
 [21:58:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
 [21:58:51] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/327140, l='world', x=73.50, y=99.10, z=281.50] connected. Sending ping
+[22:13:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Time to Refine!]
+[22:21:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[22:21:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
