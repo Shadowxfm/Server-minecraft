@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/advanced_solar": {
+    "criteria": {
+      "advanced_solar": "2025-06-21 19:28:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-06-14 00:00:07 +0000"
