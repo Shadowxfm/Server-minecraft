@@ -10923,3 +10923,19 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [23:40:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:40:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:41:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:42:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:43:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:43:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:44:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:45:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:45:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Disconnected
+[23:45:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
+[23:46:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:46:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:47:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:48:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:49:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:49:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:50:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:51:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:52:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

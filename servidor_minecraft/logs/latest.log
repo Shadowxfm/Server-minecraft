@@ -1056,3 +1056,5 @@ Caused by: java.net.UnknownHostException: export.mcpbot.bspk.rs
 [23:30:33] [Server thread/INFO] [dsurround]: Player [CrissNotFound_] connected with Dynamic Surroundings 3.6.1.0
 [23:30:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
 [23:30:33] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/458105, l='world', x=76.46, y=99.00, z=282.70] connected. Sending ping
+[23:45:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Disconnected
+[23:45:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
