@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2025-06-21 22:58:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 22:47:27 +0000"
@@ -35,9 +41,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-21 22:58:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-06-21 22:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-21 22:58:17 +0000"
     },
     "done": true
   },
@@ -73,6 +91,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-21 22:58:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-06-21 22:33:53 +0000"
@@ -84,6 +108,13 @@
       "slept_in_bed": "2025-06-21 22:40:19 +0000"
     },
     "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_gear": {
+    "criteria": {
+      "oxygen_gear": "2025-06-21 22:55:39 +0000",
+      "oxygen_mask": "2025-06-21 22:55:41 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
@@ -187,6 +218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-21 22:58:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 22:47:27 +0000"
@@ -214,6 +251,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-06-21 22:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-21 22:58:17 +0000"
     },
     "done": true
   },
@@ -250,6 +293,30 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-21 22:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-21 22:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-21 22:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2025-06-21 22:58:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-21 22:58:17 +0000"
     },
     "done": true
   },
@@ -319,6 +386,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-21 22:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-21 22:58:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-06-21 22:34:27 +0000"
@@ -328,6 +407,12 @@
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-06-21 22:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-21 22:58:17 +0000"
     },
     "done": true
   },
