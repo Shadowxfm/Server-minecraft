@@ -692,6 +692,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-21 22:30:48 +0000"
+    },
+    "done": true
+  },
   "galacticraftcore:galacticraft/oil": {
     "criteria": {
       "in_oil": "2025-06-14 03:53:29 +0000"
