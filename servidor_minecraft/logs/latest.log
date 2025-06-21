@@ -1,272 +1,911 @@
-[21:36:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[21:36:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[21:36:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[21:36:54] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[21:36:54] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[21:36:54] [main/INFO] [FML]: Searching /workspaces/Server-minecraft/servidor_minecraft/./mods for mods
-[21:36:54] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.7.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[21:36:54] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
-[21:36:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:36:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[21:36:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:36:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:36:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:36:56] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[21:36:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:36:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:36:56] [main/INFO] [MicdoodleCore]: Successfully Registered Transformer
-[21:36:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[21:36:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[21:36:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[21:36:56] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[21:36:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[21:36:59] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[21:36:59] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[21:36:59] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[21:36:59] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[21:36:59] [Server thread/INFO] [FML]: Searching /workspaces/Server-minecraft/servidor_minecraft/./mods for mods
-[21:37:00] [Server thread/INFO] [FML]: Forge Mod Loader has identified 13 mods to load
-[21:37:00] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[21:37:00] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
-[21:37:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, extraplanets, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib, uteamcore, usefulbackpacks] at CLIENT
-[21:37:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, extraplanets, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib, uteamcore, usefulbackpacks] at SERVER
-[21:37:01] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[21:37:01] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[21:37:01] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[21:37:01] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[21:37:01] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[21:37:01] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[21:37:02] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[21:37:02] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[21:37:02] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: UP_TO_DATE Target: null
-[21:37:02] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[21:37:02] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsmercury dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 4 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsjuptier dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 5 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssaturn dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 6 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsuranus dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 7 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsneptune dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 8 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetspluto dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 9 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetseris dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 10 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit fake`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedrefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimaterefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssolar panel`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decrystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic crystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic smasher`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic chemical injector`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic solar evaporation chamber`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic purifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedfuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimatefuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic densifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsvehiclechanger`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[21:37:04] [Server thread/INFO] [FML]: Applying holder lookups
-[21:37:04] [Server thread/INFO] [FML]: Holder lookups applied
-[21:37:04] [Server thread/INFO] [FML]: Applying holder lookups
-[21:37:04] [Server thread/INFO] [FML]: Holder lookups applied
-[21:37:04] [Server thread/INFO] [FML]: Applying holder lookups
-[21:37:04] [Server thread/INFO] [FML]: Holder lookups applied
-[21:37:04] [Server thread/INFO] [FML]: Applying holder lookups
-[21:37:04] [Server thread/INFO] [FML]: Holder lookups applied
-[21:37:04] [Server thread/INFO] [FML]: Injecting itemstacks
-[21:37:04] [Server thread/INFO] [FML]: Itemstack injection complete
-[21:37:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[21:37:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[21:37:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[21:37:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[21:37:04] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[21:37:04] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:37:04] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[21:37:04] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:37:04] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:37:05] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MorePlanets Compatibility, this is most likey intended!
-[21:37:05] [Server thread/INFO] [FML]: Applying holder lookups
-[21:37:05] [Server thread/INFO] [FML]: Holder lookups applied
-[21:37:05] [Server thread/INFO] [FML]: Injecting itemstacks
-[21:37:05] [Server thread/INFO] [FML]: Itemstack injection complete
-[21:37:05] [Server thread/INFO] [GalacticraftCore]: Activating WAILA compatibility features.
-[21:37:06] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up ExtremeReactors Compatibility, this is most likey intended!
-[21:37:06] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MCMultiPart Compatibility, this is most likey intended!
-[21:37:06] [Server thread/INFO] [Waila]: Starting Waila...
-[21:37:06] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[21:37:06] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[21:37:06] [Server thread/INFO] [Waila]: Registering plugins...
-[21:37:06] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[21:37:06] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[21:37:06] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[21:37:06] [Server thread/INFO] [Waila]: Starting Waila took 24.81 ms
-[21:37:06] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 13 mods
-[21:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[21:37:06] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[21:37:06] [Server thread/INFO] [FML]: Applying holder lookups
-[21:37:06] [Server thread/INFO] [FML]: Holder lookups applied
-[21:37:06] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@3b0c801d)
-[21:37:06] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 516 advancements
-[21:37:06] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3b0c801d)
-[21:37:06] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@3b0c801d)
-[21:37:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[21:37:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
-[21:37:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.846s)! For help, type "help" or "?"
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -13
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -20
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -15
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -16
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -17
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -18
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -19
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -21
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -22
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -29
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -30
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -31
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1504
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1501
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1500
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1503
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1502
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1505
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1506
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1507
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1508
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1509
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1510
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1511
-[21:37:09] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -28
-[21:37:09] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:37:09] [Server thread/INFO] [FML]: Unloading dimension 1
-[21:39:37] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[21:39:37] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,usefulbackpacks@1.5.4.85,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.6,mcp@9.42,lunatriuscore@1.2.0.42
-[21:39:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:39:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:42579] logged in with entity id 307 at (71.80478971829717, 104.0, 281.2699399502477)
-[21:39:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[21:39:40] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/307, l='world', x=71.80, y=104.00, z=281.27] connected. Sending ping
-[21:40:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
-[21:40:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
-[21:40:26] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[21:40:26] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,usefulbackpacks@1.5.4.85,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.6,mcp@9.42,lunatriuscore@1.2.0.42
-[21:40:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:40:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:52621] logged in with entity id 1230 at (71.80478971829717, 104.0, 281.2699399502477)
-[21:40:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[21:40:28] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/1230, l='world', x=71.80, y=104.00, z=281.27] connected. Sending ping
-[21:40:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
-[21:40:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
-[21:41:11] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
-[21:41:11] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,usefulbackpacks@1.5.4.85,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.6,mcp@9.42,lunatriuscore@1.2.0.42
-[21:41:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:41:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:46869] logged in with entity id 2025 at (78.63324194313519, 110.00133597911214, 276.07646414179413)
-[21:41:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[21:41:13] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/2025, l='world', x=78.63, y=110.00, z=276.08] connected. Sending ping
-[21:41:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
-[21:41:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
-[21:41:49] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[21:41:49] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,usefulbackpacks@1.5.4.85,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.6,mcp@9.42,lunatriuscore@1.2.0.42
-[21:41:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:41:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:51407] logged in with entity id 2261 at (78.63324194313519, 110.00133597911214, 276.07646414179413)
-[21:41:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[21:41:50] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/2261, l='world', x=78.63, y=110.00, z=276.08] connected. Sending ping
-[21:42:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
-[21:42:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
-[21:43:04] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[21:43:04] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,usefulbackpacks@1.5.4.85,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.6,mcp@9.42,lunatriuscore@1.2.0.42
-[21:43:06] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:43:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:40733] logged in with entity id 2569 at (78.63324194313519, 109.0, 276.07646414179413)
-[21:43:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[21:43:06] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/2569, l='world', x=78.63, y=109.00, z=276.08] connected. Sending ping
-[21:43:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
-[21:43:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
-[21:47:07] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[21:47:07] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,usefulbackpacks@1.5.4.85,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.6,mcp@9.42,lunatriuscore@1.2.0.42
-[21:47:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:47:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowx[/127.60.117.46:58695] logged in with entity id 2814 at (196.5, 70.0, 229.5)
-[21:47:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowx joined the game
-[21:47:11] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowx'/2814, l='world', x=196.50, y=70.00, z=229.50] connected. Sending ping
-[21:47:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowx lost connection: Timed out
-[21:47:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowx left the game
-[21:47:58] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[21:47:58] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,usefulbackpacks@1.5.4.85,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.6,mcp@9.42,lunatriuscore@1.2.0.42
-[21:48:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:48:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowx[/127.60.117.46:34969] logged in with entity id 3021 at (196.5, 70.0, 229.5)
-[21:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowx joined the game
-[21:48:00] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowx'/3021, l='world', x=196.50, y=70.00, z=229.50] connected. Sending ping
-[21:48:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowx lost connection: Timed out
-[21:48:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowx left the game
-[21:49:51] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[21:49:51] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,usefulbackpacks@1.5.4.85,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.6,mcp@9.42,lunatriuscore@1.2.0.42
-[21:49:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:49:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowx[/127.60.117.46:39953] logged in with entity id 3202 at (196.5, 70.0, 229.5)
-[21:49:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowx joined the game
-[21:49:54] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowx'/3202, l='world', x=196.50, y=70.00, z=229.50] connected. Sending ping
-[21:50:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowx lost connection: Timed out
-[21:50:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowx left the game
-[21:55:07] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[21:55:07] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.7,usefulbackpacks@1.5.4.85,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.6,mcp@9.42,lunatriuscore@1.2.0.42
-[21:55:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:55:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:56603] logged in with entity id 3465 at (78.63324194313519, 109.0, 276.07646414179413)
-[21:55:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[21:55:09] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/3465, l='world', x=78.63, y=109.00, z=276.08] connected. Sending ping
-[21:55:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
-[21:55:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
-[21:56:09] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
-[21:56:09] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 17 mods : minecraft@1.12.2,galacticraftcore@4.0.7,usefulbackpacks@1.5.4.85,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,uteamcore@2.2.5.375,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,xaerominimap@25.2.6,mcp@9.42,lunatriuscore@1.2.0.42
-[21:56:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:56:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:56273] logged in with entity id 4215 at (78.63324194313519, 109.0, 276.07646414179413)
-[21:56:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[21:56:11] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/4215, l='world', x=78.63, y=109.00, z=276.08] connected. Sending ping
-[21:56:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
-[21:56:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
-[21:58:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[21:58:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[21:58:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[21:58:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[21:58:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[21:58:39] [Server thread/INFO] [FML]: Unloading dimension 0
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -13
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -20
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -15
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -16
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -17
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -18
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -19
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -21
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -22
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1504
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1501
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1500
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1503
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1502
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1505
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1506
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1507
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1508
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1509
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1510
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1511
-[21:58:39] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
-[21:58:39] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[21:58:39] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[21:58:39] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:39:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:39:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:39:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:39:14] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[18:39:14] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[18:39:14] [main/INFO] [FML]: Searching /workspaces/Server-minecraft/servidor_minecraft/./mods for mods
+[18:39:14] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[18:39:14] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.1.0.jar
+[18:39:14] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.7.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:39:14] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[18:39:14] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[18:39:14] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from VanillaFix-1.0.10-150.jar
+[18:39:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:39:14] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[18:39:14] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[18:39:14] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/Server-minecraft/servidor_minecraft/./mods/DynamicSurroundings-1.12.2-3.6.1.0.jar Service=LaunchWrapper Env=SERVER
+[18:39:14] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[18:39:14] [main/INFO] [VanillaFix]: Initializing VanillaFix
+[18:39:14] [main/INFO] [VanillaFix]: Initializing StacktraceDeobfuscator
+[18:39:14] [main/INFO] [VanillaFix]: Downloading MCP method mappings to: methods-stable_39.csv
+[18:39:15] [main/ERROR] [VanillaFix]: Failed to get MCP data!
+java.lang.RuntimeException: java.net.UnknownHostException: export.mcpbot.bspk.rs
+	at org.dimdev.vanillafix.crashes.StacktraceDeobfuscator.init(StacktraceDeobfuscator.java:52) ~[StacktraceDeobfuscator.class:?]
+	at org.dimdev.vanillafix.VanillaFixLoadingPlugin.initStacktraceDeobfuscator(VanillaFixLoadingPlugin.java:60) [VanillaFix-1.0.10-150.jar:?]
+	at org.dimdev.vanillafix.VanillaFixLoadingPlugin.<clinit>(VanillaFixLoadingPlugin.java:43) [VanillaFix-1.0.10-150.jar:?]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_452]
+	at java.lang.Class.forName(Class.java:348) [?:1.8.0_452]
+	at net.minecraftforge.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:527) [forge-1.12.2-14.23.5.2860.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
+	at org.spongepowered.asm.launch.platform.MixinPlatformAgentFMLLegacy.injectCorePlugin(MixinPlatformAgentFMLLegacy.java:244) [DynamicSurroundings-1.12.2-3.6.1.0.jar:?]
+	at org.spongepowered.asm.launch.platform.MixinPlatformAgentFMLLegacy.initFMLCoreMod(MixinPlatformAgentFMLLegacy.java:171) [DynamicSurroundings-1.12.2-3.6.1.0.jar:?]
+	at org.spongepowered.asm.launch.platform.MixinPlatformAgentFMLLegacy.accept(MixinPlatformAgentFMLLegacy.java:157) [DynamicSurroundings-1.12.2-3.6.1.0.jar:?]
+	at org.spongepowered.asm.launch.platform.MixinContainer.<init>(MixinContainer.java:74) [DynamicSurroundings-1.12.2-3.6.1.0.jar:?]
+	at org.spongepowered.asm.launch.platform.MixinPlatformManager.createContainerFor(MixinPlatformManager.java:143) [DynamicSurroundings-1.12.2-3.6.1.0.jar:?]
+	at org.spongepowered.asm.launch.platform.MixinPlatformManager.addContainer(MixinPlatformManager.java:135) [DynamicSurroundings-1.12.2-3.6.1.0.jar:?]
+	at org.spongepowered.asm.launch.platform.MixinPlatformManager.scanForContainers(MixinPlatformManager.java:220) [DynamicSurroundings-1.12.2-3.6.1.0.jar:?]
+	at org.spongepowered.asm.launch.platform.MixinPlatformManager.init(MixinPlatformManager.java:107) [DynamicSurroundings-1.12.2-3.6.1.0.jar:?]
+	at org.spongepowered.asm.launch.MixinBootstrap.getPlatform(MixinBootstrap.java:107) [DynamicSurroundings-1.12.2-3.6.1.0.jar:?]
+	at org.spongepowered.asm.launch.MixinBootstrap.start(MixinBootstrap.java:154) [DynamicSurroundings-1.12.2-3.6.1.0.jar:?]
+	at org.spongepowered.asm.launch.MixinTweaker.<init>(MixinTweaker.java:46) [DynamicSurroundings-1.12.2-3.6.1.0.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_452]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_452]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_452]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) [?:1.8.0_452]
+	at java.lang.Class.newInstance(Class.java:442) [?:1.8.0_452]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2860.jar:?]
+Caused by: java.net.UnknownHostException: export.mcpbot.bspk.rs
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184) ~[?:1.8.0_452]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_452]
+	at java.net.Socket.connect(Socket.java:607) ~[?:1.8.0_452]
+	at java.net.Socket.connect(Socket.java:556) ~[?:1.8.0_452]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180) ~[?:1.8.0_452]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:465) ~[?:1.8.0_452]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:560) ~[?:1.8.0_452]
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:244) ~[?:1.8.0_452]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:341) ~[?:1.8.0_452]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:359) ~[?:1.8.0_452]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1243) ~[?:1.8.0_452]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1177) ~[?:1.8.0_452]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1061) ~[?:1.8.0_452]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1059) ~[?:1.8.0_452]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_452]
+	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784) ~[?:1.8.0_452]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1058) ~[?:1.8.0_452]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1005) ~[?:1.8.0_452]
+	at org.dimdev.vanillafix.crashes.StacktraceDeobfuscator.init(StacktraceDeobfuscator.java:31) ~[StacktraceDeobfuscator.class:?]
+	... 33 more
+[18:39:15] [main/INFO] [VanillaFix]: Done initializing StacktraceDeobfuscator
+[18:39:15] [main/INFO] [VanillaFix]: Initializing Bug Fix Mixins
+[18:39:15] [main/INFO] [VanillaFix]: Initializing Crash Fix Mixins
+[18:39:15] [main/INFO] [VanillaFix]: Initializing Profiler Improvement Mixins
+[18:39:15] [main/INFO] [VanillaFix]: Initializing Texture Fix Mixins
+[18:39:15] [main/INFO] [VanillaFix]: Initializing Mod Support Mixins
+[18:39:15] [main/WARN] [FML]: The coremod VanillaFixLoadingPlugin (org.dimdev.vanillafix.VanillaFixLoadingPlugin) is not signed!
+[18:39:15] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[18:39:15] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[18:39:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:39:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:39:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:39:15] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[18:39:15] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[18:39:15] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[18:39:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:39:16] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:39:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:39:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:39:16] [main/INFO] [MicdoodleCore]: Successfully Registered Transformer
+[18:39:16] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[18:39:16] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@2d0bfb24
+[18:39:16] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[18:39:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:39:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:39:16] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[18:39:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:39:16] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[18:39:16] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[18:39:16] [main/WARN] [mixin]: Error loading class: net/minecraft/server/integrated/IntegratedServer (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@c9d82f9 from coremod FMLCorePlugin)
+[18:39:16] [main/WARN] [mixin]: @Mixin target net.minecraft.server.integrated.IntegratedServer was not found mixins.vanillafix.crashes.json:MixinIntegratedServer
+[18:39:17] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:39:17] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[18:39:18] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[18:39:18] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[18:39:18] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[18:39:18] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[18:39:20] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
+[18:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[18:39:20] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[18:39:20] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:39:20] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[18:39:20] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[18:39:20] [Server thread/INFO] [FML]: Searching /workspaces/Server-minecraft/servidor_minecraft/./mods for mods
+[18:39:21] [Server thread/INFO] [FML]: Disabling mod soundfilters it is client side only.
+[18:39:21] [Server thread/WARN] [FML]: Mod vanillafix is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.10-150
+[18:39:21] [Server thread/INFO] [FML]: Forge Mod Loader has identified 18 mods to load
+[18:39:21] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[18:39:21] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[18:39:21] [Server thread/WARN] [FML]: Missing English translation for fastfurnace: assets/fastfurnace/lang/en_us.lang
+[18:39:21] [Server thread/WARN] [FML]: Missing English translation for fastbench: assets/fastbench/lang/en_us.lang
+[18:39:21] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
+[18:39:21] [Server thread/WARN] [FML]: Missing English translation for placebo: assets/placebo/lang/en_us.lang
+[18:39:21] [Server thread/INFO] [FML]: FML has found a non-mod file SoundFilters-0.12.1_for_1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[18:39:21] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, clumps, dsurround, extraplanets, fastfurnace, fastbench, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib, placebo, vanillafix, orelib] at CLIENT
+[18:39:21] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, clumps, dsurround, extraplanets, fastfurnace, fastbench, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib, placebo, vanillafix, orelib] at SERVER
+[18:39:22] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[18:39:22] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[18:39:22] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[18:39:22] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:39:22] [Server thread/INFO] [FML]: Found 1 ItemStackHolder annotations
+[18:39:23] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:39:23] [Forge Version Check/INFO] [forge.VersionCheck]: [dsurround] Starting version check at https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings/master/version.json
+[18:39:23] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[18:39:23] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[18:39:23] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:39:23] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[18:39:23] [Forge Version Check/INFO] [forge.VersionCheck]: [vanillafix] Starting version check at https://gist.githubusercontent.com/Runemoro/28e8cf4c24a5f17f508a5d34f66d229f/raw/vanillafix_update.json
+[18:39:23] [Forge Version Check/INFO] [forge.VersionCheck]: [vanillafix] Found status: AHEAD Target: null
+[18:39:24] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[18:39:24] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:741)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:156)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[18:39:24] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:741)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:156)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[18:39:24] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:741)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:156)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[18:39:24] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:741)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:156)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[18:39:24] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:741)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:156)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[18:39:24] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:741)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:156)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[18:39:24] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:741)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:156)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[18:39:24] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:741)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:156)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[18:39:24] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:741)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:156)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[18:39:24] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[18:39:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[18:39:24] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsmercury dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 4 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsjuptier dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 5 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssaturn dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 6 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsuranus dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 7 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsneptune dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 8 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetspluto dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 9 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetseris dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 10 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit fake`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedrefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimaterefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssolar panel`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decrystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic crystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic smasher`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic chemical injector`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic solar evaporation chamber`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic purifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedfuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimatefuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic densifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsvehiclechanger`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:26] [Server thread/INFO] [vanillafix]: Regenerating outdated config
+[18:39:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lit_furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:26] [Server thread/INFO] [FML]: Applying holder lookups
+[18:39:26] [Server thread/INFO] [FML]: Holder lookups applied
+[18:39:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:26] [Server thread/INFO] [FML]: Applying holder lookups
+[18:39:26] [Server thread/INFO] [FML]: Holder lookups applied
+[18:39:26] [Server thread/INFO] [FML]: Applying holder lookups
+[18:39:26] [Server thread/INFO] [FML]: Holder lookups applied
+[18:39:26] [Server thread/INFO] [FML]: Applying holder lookups
+[18:39:26] [Server thread/INFO] [FML]: Holder lookups applied
+[18:39:26] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:39:26] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[18:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[18:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[18:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[18:39:26] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[18:39:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:39:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[18:39:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:39:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:39:27] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MorePlanets Compatibility, this is most likey intended!
+[18:39:27] [Server thread/INFO] [FML]: Applying holder lookups
+[18:39:27] [Server thread/INFO] [FML]: Holder lookups applied
+[18:39:27] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:39:27] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:39:27] [Server thread/INFO] [GalacticraftCore]: Activating WAILA compatibility features.
+[18:39:28] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up ExtremeReactors Compatibility, this is most likey intended!
+[18:39:28] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MCMultiPart Compatibility, this is most likey intended!
+[18:39:28] [Server thread/INFO] [placebo]: Beginning replacement of all shapeless recipes...
+[18:39:28] [Server thread/INFO] [placebo]: Expect log spam from FML!
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_dye_from_sunflower`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_dye_from_dandelion`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `writable_book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `white_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `trapped_chest`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_rose_bush`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_poppy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_beetroot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_red_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_pink_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_peony`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_dye_from_red_yellow`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_dye_from_orange_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mossy_stonebrick`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mossy_cobblestone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magma_cream`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_purple_and_pink`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lilac`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lapis_red_pink`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lapis_ink_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_allium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_white_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_oxeye_daisy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_ink_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_gray_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_azure_bluet`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_dye_from_lapis_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_dye_from_blue_orchid`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `granite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flint_and_steel`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fire_charge`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fermented_spider_eye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ender_eye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bone_meal_from_bone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bone_meal_from_block`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blaze_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `andesite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `compact_workbench`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_14`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_15`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `basic_item_17`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `rocket_workbench_convert`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_11`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_4`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `cobblestone_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `basic_item_16`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `basic_item_15`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_12`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_6`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `basic_item_18`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `meteor_chunk_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `cobblestone_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_4`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `dye_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `cobblestone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_10`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_0_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `emergency_box_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `grating`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `prelaunch_checklist`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_6`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `air_vent`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `magnetic_table`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `aluminum_wire_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `aluminum_wire_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_13`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `walkway_2_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `carbon_fragments_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `carbon_fragments`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `carbon_fragments_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `carbon_fragments_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `walkway_1_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier9_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier8_items_6`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier8_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier7_items_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier7_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier6_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_11`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_10`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier4_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_12`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_11`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_10`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier10_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `red_sandstone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `orange_sandstone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_4`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `ingot_uranium_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `ingot_mercury_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `ice`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `cloth_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `canned_food_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `canned_food_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `canned_food_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `canned_food_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:39:28] [Server thread/INFO] [placebo]: Successfully replaced 200 recipes with fast recipes.
+[18:39:28] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[18:39:28] [Server thread/INFO] [Waila]: Starting Waila...
+[18:39:28] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[18:39:28] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[18:39:28] [Server thread/INFO] [Waila]: Registering plugins...
+[18:39:28] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[18:39:28] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[18:39:28] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[18:39:28] [Server thread/INFO] [Waila]: Starting Waila took 30.71 ms
+[18:39:28] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 18 mods
+[18:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[18:39:28] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[18:39:29] [Server thread/INFO] [FML]: Registry Block: Activating override fastfurnace for minecraft:lit_furnace
+[18:39:29] [Server thread/INFO] [FML]: Registry Block: Activating override fastbench for minecraft:crafting_table
+[18:39:29] [Server thread/INFO] [FML]: Registry Block: Activating override fastfurnace for minecraft:furnace
+[18:39:29] [Server thread/INFO] [FML]: Registry Item: Activating override fastbench for minecraft:crafting_table
+[18:39:29] [Server thread/INFO] [FML]: Registry Item: Activating override fastfurnace for minecraft:furnace
+[18:39:29] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: clumps:xp_orb_big Expected: 0 Got: 142
+[18:39:29] [Server thread/INFO] [FML]: Applying holder lookups
+[18:39:29] [Server thread/INFO] [FML]: Holder lookups applied
+[18:39:29] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@556d9fe7)
+[18:39:29] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 516 advancements
+[18:39:29] [Server thread/INFO] [dsurround]: Attaching capabilities to world [overworld] (SERVER)
+[18:39:29] [Server thread/INFO] [dsurround]: DimensionInfo{id=0, name=overworld, seaLevel=63, cloudHeight=128, skyHeight=256, haze=true, aurora=true, weather=true, fog=true}
+[18:39:29] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[18:39:29] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@556d9fe7)
+[18:39:29] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_nether] (SERVER)
+[18:39:29] [Server thread/INFO] [dsurround]: DimensionInfo{id=-1, name=the_nether, seaLevel=0, cloudHeight=128, skyHeight=128, haze=false, aurora=false, weather=true, fog=true}
+[18:39:29] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[18:39:29] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@556d9fe7)
+[18:39:29] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_end] (SERVER)
+[18:39:29] [Server thread/INFO] [dsurround]: DimensionInfo{id=1, name=the_end, seaLevel=0, cloudHeight=128, skyHeight=256, haze=false, aurora=false, weather=false, fog=false}
+[18:39:29] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[18:39:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (0.858s)! For help, type "help" or "?"
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -13
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -20
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -15
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -16
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -17
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -18
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -19
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -21
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -22
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -29
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -30
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -31
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1504
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1501
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1500
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1503
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1502
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1505
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1506
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1507
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1508
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1509
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1510
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1511
+[18:39:29] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -28
+[18:39:29] [Server thread/INFO] [FML]: Unloading dimension -1
+[18:39:29] [Server thread/INFO] [FML]: Unloading dimension 1
+[18:39:30] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: widget.mcf.li
+[18:42:32] [Server thread/WARN] [net.minecraft.stats.StatisticsManagerServer]: Invalid statistic in ./world/stats/ba3b9061-cd84-31a2-846f-fd2f97f75e55.json: Don't know what stat.craftItem.usefulbackpacks.backpack is
+[18:42:32] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[18:42:32] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,waila@1.8.26,jei@4.16.1.301,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2859,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,journeymap@1.12.2-5.7.1p3,placebo@1.6.0
+[18:42:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:42:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:33939] logged in with entity id 0 at (74.1702772678315, 99.0, 272.46091322313873)
+[18:42:33] [Server thread/INFO] [dsurround]: Player [CrissNotFound_] connected with Dynamic Surroundings 3.6.1.0
+[18:42:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
+[18:42:34] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/0, l='world', x=74.17, y=99.00, z=272.46] connected. Sending ping
+[18:44:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Disconnected
+[18:44:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
+[18:46:08] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[18:46:08] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,waila@1.8.26,jei@4.16.1.301,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2859,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,journeymap@1.12.2-5.7.1p3,placebo@1.6.0
+[18:46:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:46:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:54215] logged in with entity id 2154 at (75.2344296057791, 91.0, 290.8849674849012)
+[18:46:09] [Server thread/INFO] [dsurround]: Player [CrissNotFound_] connected with Dynamic Surroundings 3.6.1.0
+[18:46:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
+[18:46:09] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/2154, l='world', x=75.23, y=91.00, z=290.88] connected. Sending ping
