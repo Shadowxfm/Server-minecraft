@@ -1017,3 +1017,15 @@ Caused by: java.net.UnknownHostException: export.mcpbot.bspk.rs
 [22:21:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
 [22:30:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Enchanter]
 [22:31:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ has made the advancement [Fill her up!]
+[22:33:07] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[22:33:07] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
+[22:33:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:33:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Daniel_77op[/127.41.234.113:51011] logged in with entity id 387661 at (75.79281634404335, 99.0, 278.0062752234661)
+[22:33:08] [Server thread/INFO] [dsurround]: Player [Daniel_77op] connected with Dynamic Surroundings 3.6.1.0
+[22:33:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op joined the game
+[22:33:08] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Daniel_77op'/387661, l='world', x=75.79, y=99.00, z=278.01] connected. Sending ping
+[22:33:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op has made the advancement [Stone Age]
+[22:34:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op has made the advancement [Getting an Upgrade]
+[22:36:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op was burnt to a crisp whilst fighting Shadowxfx
+[22:37:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op has made the advancement [Suit Up]
+[22:40:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daniel_77op has made the advancement [Sweet dreams]
