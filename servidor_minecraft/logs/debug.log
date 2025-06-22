@@ -11879,3 +11879,168 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [01:41:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:42:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:43:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:43:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lilbrayan was slain by Zombie
+[01:43:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:44:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:45:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Entity 'Lilbray' cannot be found
+[01:45:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:46:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:46:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lilbrayan tried to swim in lava
+[01:46:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:47:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported Lilbrayan to CrissNotFound_
+[01:47:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] usa hack
+[01:47:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:48:09] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:48:09] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:48:09] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:48:09] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:48:09] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:48:09] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:24 mods->FMLHandshakeServerState$2:HELLO
+[01:48:09] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
+[01:48:09] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[01:48:10] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:48:10] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[01:48:11] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:48:11] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[01:48:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:48:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:57725] logged in with entity id 642892 at (98.30000001192093, 18.0, 384.58942951588466)
+[01:48:11] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
+[01:48:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[01:48:11] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/642892, l='world', x=98.30, y=18.00, z=384.59] connected. Sending ping
+[01:48:12] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:48:12] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:48:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[01:48:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[01:48:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:49:14] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:49:14] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:49:14] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:49:14] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:49:14] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[01:49:14] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ModList:24 mods->FMLHandshakeServerState$2:HELLO
+[01:49:14] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
+[01:49:14] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: WAITINGCACK
+[01:49:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:49:14] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:49:14] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: COMPLETE
+[01:49:16] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:49:16] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: DONE
+[01:49:16] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:49:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:49:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:44605] logged in with entity id 644524 at (98.30000001192093, 18.0, 384.58942951588466)
+[01:49:16] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
+[01:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[01:49:16] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/644524, l='world', x=98.30, y=18.00, z=384.59] connected. Sending ping
+[01:49:17] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:49:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[01:49:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[01:49:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CrissNotFound_ lost connection: Disconnected
+[01:49:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ left the game
+[01:49:40] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:49:40] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:49:40] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:49:40] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:49:40] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[01:49:40] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[01:49:40] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,galacticraftcore@4.0.7,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,waila@1.8.26,jei@4.16.1.301,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2859,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,journeymap@1.12.2-5.7.1p3,placebo@1.6.0
+[01:49:40] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: WAITINGCACK
+[01:49:40] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:49:40] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: COMPLETE
+[01:49:40] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:49:40] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: DONE
+[01:49:40] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:49:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:49:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CrissNotFound_[/127.17.67.174:55387] logged in with entity id 645185 at (155.52931128087846, 35.0, 345.49902632878747)
+[01:49:40] [Server thread/INFO] [dsurround]: Player [CrissNotFound_] connected with Dynamic Surroundings 3.6.1.0
+[01:49:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CrissNotFound_ joined the game
+[01:49:40] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['CrissNotFound_'/645185, l='world', x=155.53, y=35.00, z=345.50] connected. Sending ping
+[01:49:40] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:49:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:50:33] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:50:33] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:50:33] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:50:34] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:50:34] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:50:34] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:24 mods->FMLHandshakeServerState$2:HELLO
+[01:50:34] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
+[01:50:34] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[01:50:34] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:50:34] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[01:50:36] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:50:36] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[01:50:36] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:50:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:50:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:58635] logged in with entity id 646216 at (98.30000001192093, 18.0, 384.58942951588466)
+[01:50:37] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
+[01:50:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[01:50:37] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/646216, l='world', x=98.30, y=18.00, z=384.59] connected. Sending ping
+[01:50:37] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:50:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:50:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[01:50:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[01:51:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:51:52] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:51:52] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:51:52] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:51:52] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:51:52] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:51:52] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:24 mods->FMLHandshakeServerState$2:HELLO
+[01:51:52] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
+[01:51:52] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[01:51:53] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:51:53] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[01:51:56] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:51:56] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[01:51:56] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:51:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:51:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:39743] logged in with entity id 647840 at (98.30000001192093, 18.0, 384.58942951588466)
+[01:51:56] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
+[01:51:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[01:51:56] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/647840, l='world', x=98.30, y=18.00, z=384.59] connected. Sending ping
+[01:51:56] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:52:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[01:52:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[01:52:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:52:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] el server se esta revelando
+[01:52:23] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:52:23] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:52:23] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:52:24] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:52:24] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[01:52:24] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ModList:24 mods->FMLHandshakeServerState$2:HELLO
+[01:52:24] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
+[01:52:24] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: WAITINGCACK
+[01:52:24] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:52:24] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: COMPLETE
+[01:52:26] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:52:26] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: DONE
+[01:52:26] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:52:26] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:52:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:45603] logged in with entity id 648241 at (98.30000001192093, 18.0, 384.58942951588466)
+[01:52:26] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
+[01:52:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[01:52:26] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/648241, l='world', x=98.30, y=18.00, z=384.59] connected. Sending ping
+[01:52:27] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:52:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[01:52:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[01:52:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:53:03] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:53:03] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:53:03] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:53:04] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:53:04] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[01:53:04] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ModList:24 mods->FMLHandshakeServerState$2:HELLO
+[01:53:04] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
+[01:53:04] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: WAITINGCACK
+[01:53:04] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:53:04] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: COMPLETE
+[01:53:07] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:53:07] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: DONE
+[01:53:07] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:53:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:53:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:60365] logged in with entity id 649087 at (98.30000001192093, 18.0, 384.58942951588466)
+[01:53:07] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
+[01:53:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[01:53:07] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/649087, l='world', x=98.30, y=18.00, z=384.59] connected. Sending ping
+[01:53:07] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:53:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] esa casa se va a caer
