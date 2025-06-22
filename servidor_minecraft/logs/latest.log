@@ -74,3 +74,28 @@
 [00:41:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
 [00:42:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unbanned player Daniel_77o
 [00:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'Daniel_77o' cannot be found
+[00:43:43] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[00:43:43] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
+[00:43:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:43:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:46843] logged in with entity id 550954 at (-16.7786228857397, 82.24918707874468, 404.786081231596)
+[00:43:44] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
+[00:43:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[00:43:44] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/550954, l='world', x=-16.78, y=82.25, z=404.79] connected. Sending ping
+[00:43:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[00:43:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[00:44:23] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[00:44:23] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
+[00:44:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:44:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:36097] logged in with entity id 552707 at (-16.7786228857397, 82.24918707874468, 404.786081231596)
+[00:44:25] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
+[00:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[00:44:25] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/552707, l='world', x=-16.78, y=82.25, z=404.79] connected. Sending ping
+[00:44:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[00:44:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[00:45:24] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[00:45:25] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
+[00:45:26] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:45:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:58877] logged in with entity id 554129 at (-16.7786228857397, 82.24918707874468, 404.786081231596)
+[00:45:26] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
+[00:45:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[00:45:26] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/554129, l='world', x=-16.78, y=82.25, z=404.79] connected. Sending ping

@@ -1,10 +1,4 @@
 {
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-06-14 02:13:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-22 00:34:27 +0000"
@@ -17,33 +11,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-06-14 02:16:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-06-14 02:18:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-06-14 02:34:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "entered_water": "2025-06-14 02:34:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-06-22 00:36:17 +0000"
     },
     "done": true
   },
@@ -65,12 +35,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "entered_water": "2025-06-14 02:34:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-06-14 02:18:32 +0000"
@@ -85,9 +49,74 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-22 00:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2025-06-14 02:12:42 +0000",
+      "birch_forest": "2025-06-14 02:33:52 +0000",
+      "forest_hills": "2025-06-14 02:11:38 +0000",
+      "plains": "2025-06-14 02:11:49 +0000",
+      "roofed_forest": "2025-06-14 02:35:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-14 02:13:25 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_gear": {
+    "criteria": {
+      "oxygen_gear": "2025-06-22 00:50:08 +0000",
+      "oxygen_mask": "2025-06-22 00:44:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-14 02:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-14 02:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2025-06-14 02:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-22 00:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2025-06-14 02:34:25 +0000"
+    },
+    "done": true
+  },
   "galacticraftcore:galacticraft/root": {
     "criteria": {
       "tick": "2025-06-14 02:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-22 00:48:13 +0000"
     },
     "done": true
   },
@@ -120,22 +149,6 @@
       "entered_water": "2025-06-14 02:34:25 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-06-22 00:34:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "forest": "2025-06-14 02:12:42 +0000",
-      "birch_forest": "2025-06-14 02:33:52 +0000",
-      "forest_hills": "2025-06-14 02:11:38 +0000",
-      "plains": "2025-06-14 02:11:49 +0000",
-      "roofed_forest": "2025-06-14 02:35:02 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
