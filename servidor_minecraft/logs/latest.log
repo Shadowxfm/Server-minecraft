@@ -99,3 +99,18 @@
 [00:45:26] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
 [00:45:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
 [00:45:26] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/554129, l='world', x=-16.78, y=82.25, z=404.79] connected. Sending ping
+[00:56:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lilbrayan lost connection: Disconnected
+[00:56:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lilbrayan left the game
+[00:57:16] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[00:57:16] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
+[00:57:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:57:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lilbrayan[/127.247.41.91:45543] logged in with entity id 571857 at (68.53210803328055, 104.0, 279.52395593116796)
+[00:57:16] [Server thread/INFO] [dsurround]: Player [Lilbrayan] connected with Dynamic Surroundings 3.6.1.0
+[00:57:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lilbrayan joined the game
+[00:57:16] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Lilbrayan'/571857, l='world', x=68.53, y=104.00, z=279.52] connected. Sending ping
+[01:00:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [A Seedy Place]
+[01:01:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lilbrayan has made the advancement [Stone Age]
+[01:02:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[01:02:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[01:03:02] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[01:03:02] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
