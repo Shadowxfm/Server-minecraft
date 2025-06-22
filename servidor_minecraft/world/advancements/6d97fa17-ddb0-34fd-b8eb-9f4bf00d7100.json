@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-06-22 01:59:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-06-21 22:58:17 +0000"
@@ -406,6 +412,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2025-06-22 00:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-22 02:00:14 +0000"
     },
     "done": true
   },
@@ -692,7 +704,8 @@
     "criteria": {
       "skeleton": "2025-06-21 23:03:23 +0000",
       "zombie": "2025-06-21 22:58:37 +0000",
-      "spider": "2025-06-22 00:53:23 +0000"
+      "spider": "2025-06-22 00:53:23 +0000",
+      "creeper": "2025-06-22 02:00:12 +0000"
     },
     "done": false
   },

@@ -12044,3 +12044,17 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [01:53:07] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/649087, l='world', x=98.30, y=18.00, z=384.59] connected. Sending ping
 [01:53:07] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [01:53:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] esa casa se va a caer
+[01:53:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:54:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:55:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:55:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:56:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:57:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:58:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:58:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:59:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:00:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:01:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:01:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:02:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:03:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
