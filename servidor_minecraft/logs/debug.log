@@ -10954,3 +10954,17 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [00:01:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:02:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
 [00:02:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[00:02:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:03:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:04:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:04:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:05:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:06:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:07:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:07:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:08:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:09:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:10:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:10:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:11:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:12:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
