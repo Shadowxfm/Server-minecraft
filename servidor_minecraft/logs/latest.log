@@ -504,3 +504,7 @@ Caused by: java.net.UnknownHostException: export.mcpbot.bspk.rs
 [21:36:28] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/0, l='world', x=70.82, y=99.00, z=274.50] connected. Sending ping
 [21:38:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 'Shadowxfx' is not a valid number
 [21:39:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Shadowxfx's game mode to Creative Mode
+[21:46:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[21:46:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[21:46:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[21:46:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Best Friends Forever]
