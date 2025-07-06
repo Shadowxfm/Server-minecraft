@@ -1,24 +1,24 @@
-[03:12:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:12:11] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:12:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:12:11] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[03:12:11] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[03:12:11] [main/INFO] [FML]: Searching /workspaces/Server-minecraft/servidor_minecraft/./mods for mods
-[03:12:11] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
-[03:12:11] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.1.0.jar
-[03:12:11] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.7.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[03:12:11] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
-[03:12:11] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
-[03:12:11] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from VanillaFix-1.0.10-150.jar
-[03:12:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:12:11] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
-[03:12:11] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[03:12:11] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/Server-minecraft/servidor_minecraft/./mods/DynamicSurroundings-1.12.2-3.6.1.0.jar Service=LaunchWrapper Env=SERVER
-[03:12:11] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[03:12:11] [main/INFO] [VanillaFix]: Initializing VanillaFix
-[03:12:12] [main/INFO] [VanillaFix]: Initializing StacktraceDeobfuscator
-[03:12:12] [main/INFO] [VanillaFix]: Downloading MCP method mappings to: methods-stable_39.csv
-[03:12:12] [main/ERROR] [VanillaFix]: Failed to get MCP data!
+[18:02:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:02:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:02:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:02:04] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[18:02:04] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[18:02:05] [main/INFO] [FML]: Searching /workspaces/Server-minecraft/servidor_minecraft/./mods for mods
+[18:02:05] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[18:02:05] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.1.0.jar
+[18:02:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.7.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:02:05] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[18:02:05] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[18:02:05] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from VanillaFix-1.0.10-150.jar
+[18:02:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:02:05] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[18:02:05] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[18:02:05] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/Server-minecraft/servidor_minecraft/./mods/DynamicSurroundings-1.12.2-3.6.1.0.jar Service=LaunchWrapper Env=SERVER
+[18:02:05] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[18:02:05] [main/INFO] [VanillaFix]: Initializing VanillaFix
+[18:02:06] [main/INFO] [VanillaFix]: Initializing StacktraceDeobfuscator
+[18:02:06] [main/INFO] [VanillaFix]: Downloading MCP method mappings to: methods-stable_39.csv
+[18:02:06] [main/ERROR] [VanillaFix]: Failed to get MCP data!
 java.lang.RuntimeException: java.net.UnknownHostException: export.mcpbot.bspk.rs
 	at org.dimdev.vanillafix.crashes.StacktraceDeobfuscator.init(StacktraceDeobfuscator.java:52) ~[StacktraceDeobfuscator.class:?]
 	at org.dimdev.vanillafix.VanillaFixLoadingPlugin.initStacktraceDeobfuscator(VanillaFixLoadingPlugin.java:60) [VanillaFix-1.0.10-150.jar:?]
@@ -75,466 +75,438 @@ Caused by: java.net.UnknownHostException: export.mcpbot.bspk.rs
 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1005) ~[?:1.8.0_452]
 	at org.dimdev.vanillafix.crashes.StacktraceDeobfuscator.init(StacktraceDeobfuscator.java:31) ~[StacktraceDeobfuscator.class:?]
 	... 33 more
-[03:12:12] [main/INFO] [VanillaFix]: Done initializing StacktraceDeobfuscator
-[03:12:12] [main/INFO] [VanillaFix]: Initializing Bug Fix Mixins
-[03:12:12] [main/INFO] [VanillaFix]: Initializing Crash Fix Mixins
-[03:12:12] [main/INFO] [VanillaFix]: Initializing Profiler Improvement Mixins
-[03:12:12] [main/INFO] [VanillaFix]: Initializing Texture Fix Mixins
-[03:12:12] [main/INFO] [VanillaFix]: Initializing Mod Support Mixins
-[03:12:12] [main/WARN] [FML]: The coremod VanillaFixLoadingPlugin (org.dimdev.vanillafix.VanillaFixLoadingPlugin) is not signed!
-[03:12:12] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[03:12:12] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[03:12:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[03:12:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:12:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:12:12] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[03:12:12] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[03:12:12] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[03:12:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:12:13] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[03:12:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:12:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:12:13] [main/INFO] [MicdoodleCore]: Successfully Registered Transformer
-[03:12:13] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[03:12:13] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@2d0bfb24
-[03:12:13] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
-[03:12:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[03:12:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[03:12:14] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[03:12:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[03:12:14] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[03:12:14] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[03:12:14] [main/WARN] [mixin]: Error loading class: net/minecraft/server/integrated/IntegratedServer (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@13d186db from coremod FMLCorePlugin)
-[03:12:14] [main/WARN] [mixin]: @Mixin target net.minecraft.server.integrated.IntegratedServer was not found mixins.vanillafix.crashes.json:MixinIntegratedServer
-[03:12:14] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[03:12:15] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
-[03:12:15] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
-[03:12:16] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
-[03:12:16] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
-[03:12:16] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
-[03:12:18] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
-[03:12:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[03:12:18] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[03:12:18] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[03:12:18] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[03:12:18] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[03:12:19] [Server thread/INFO] [FML]: Searching /workspaces/Server-minecraft/servidor_minecraft/./mods for mods
-[03:12:20] [Server thread/INFO] [FML]: Disabling mod soundfilters it is client side only.
-[03:12:20] [Server thread/WARN] [FML]: Mod vanillafix is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.10-150
-[03:12:20] [Server thread/INFO] [FML]: Forge Mod Loader has identified 18 mods to load
-[03:12:20] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[03:12:20] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
-[03:12:20] [Server thread/WARN] [FML]: Missing English translation for fastfurnace: assets/fastfurnace/lang/en_us.lang
-[03:12:20] [Server thread/WARN] [FML]: Missing English translation for fastbench: assets/fastbench/lang/en_us.lang
-[03:12:20] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
-[03:12:20] [Server thread/WARN] [FML]: Missing English translation for placebo: assets/placebo/lang/en_us.lang
-[03:12:20] [Server thread/INFO] [FML]: FML has found a non-mod file SoundFilters-0.12.1_for_1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[03:12:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, clumps, dsurround, extraplanets, fastfurnace, fastbench, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib, placebo, vanillafix, orelib] at CLIENT
-[03:12:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, clumps, dsurround, extraplanets, fastfurnace, fastbench, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib, placebo, vanillafix, orelib] at SERVER
-[03:12:21] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[03:12:21] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[03:12:21] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[03:12:21] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[03:12:21] [Server thread/INFO] [FML]: Found 1 ItemStackHolder annotations
-[03:12:22] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[03:12:22] [Forge Version Check/INFO] [forge.VersionCheck]: [dsurround] Starting version check at https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings/master/version.json
-[03:12:22] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
-[03:12:22] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
-[03:12:22] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[03:12:23] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[03:12:23] [Forge Version Check/INFO] [forge.VersionCheck]: [vanillafix] Starting version check at https://gist.githubusercontent.com/Runemoro/28e8cf4c24a5f17f508a5d34f66d229f/raw/vanillafix_update.json
-[03:12:23] [Forge Version Check/INFO] [forge.VersionCheck]: [vanillafix] Found status: AHEAD Target: null
-[03:12:23] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
-[03:12:24] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
-[03:12:24] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsmercury dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 4 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsjuptier dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 5 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssaturn dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 6 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsuranus dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 7 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsneptune dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 8 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetspluto dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 9 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetseris dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 10 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit fake`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedrefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimaterefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssolar panel`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decrystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic crystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic smasher`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic chemical injector`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic solar evaporation chamber`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic purifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedfuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimatefuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic densifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsvehiclechanger`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lit_furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:26] [Server thread/INFO] [FML]: Applying holder lookups
-[03:12:26] [Server thread/INFO] [FML]: Holder lookups applied
-[03:12:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:26] [Server thread/INFO] [FML]: Applying holder lookups
-[03:12:26] [Server thread/INFO] [FML]: Holder lookups applied
-[03:12:26] [Server thread/INFO] [FML]: Applying holder lookups
-[03:12:26] [Server thread/INFO] [FML]: Holder lookups applied
-[03:12:26] [Server thread/INFO] [FML]: Applying holder lookups
-[03:12:26] [Server thread/INFO] [FML]: Holder lookups applied
-[03:12:26] [Server thread/INFO] [FML]: Injecting itemstacks
-[03:12:26] [Server thread/INFO] [FML]: Itemstack injection complete
-[03:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[03:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[03:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[03:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[03:12:26] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[03:12:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:12:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[03:12:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:12:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:12:27] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MorePlanets Compatibility, this is most likey intended!
-[03:12:27] [Server thread/INFO] [FML]: Applying holder lookups
-[03:12:27] [Server thread/INFO] [FML]: Holder lookups applied
-[03:12:27] [Server thread/INFO] [FML]: Injecting itemstacks
-[03:12:27] [Server thread/INFO] [FML]: Itemstack injection complete
-[03:12:27] [Server thread/INFO] [GalacticraftCore]: Activating WAILA compatibility features.
-[03:12:28] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up ExtremeReactors Compatibility, this is most likey intended!
-[03:12:28] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MCMultiPart Compatibility, this is most likey intended!
-[03:12:28] [Server thread/INFO] [placebo]: Beginning replacement of all shapeless recipes...
-[03:12:28] [Server thread/INFO] [placebo]: Expect log spam from FML!
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_dye_from_sunflower`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_dye_from_dandelion`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `writable_book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `white_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `trapped_chest`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_rose_bush`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_poppy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_beetroot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_red_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_pink_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_peony`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_dye_from_red_yellow`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_dye_from_orange_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mossy_stonebrick`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mossy_cobblestone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magma_cream`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_purple_and_pink`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lilac`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lapis_red_pink`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lapis_ink_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_allium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_white_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_oxeye_daisy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_ink_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_gray_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_azure_bluet`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_dye_from_lapis_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_dye_from_blue_orchid`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `granite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flint_and_steel`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fire_charge`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fermented_spider_eye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ender_eye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bone_meal_from_bone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bone_meal_from_block`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blaze_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `andesite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `compact_workbench`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_14`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_15`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `basic_item_17`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `rocket_workbench_convert`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_11`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_4`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `cobblestone_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `basic_item_16`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `basic_item_15`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_12`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_6`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `basic_item_18`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `meteor_chunk_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `cobblestone_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_4`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `dye_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `cobblestone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_10`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_0_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `emergency_box_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `grating`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `prelaunch_checklist`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_6`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `air_vent`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `magnetic_table`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `aluminum_wire_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `aluminum_wire_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_13`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `walkway_2_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `carbon_fragments_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `carbon_fragments`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `carbon_fragments_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `carbon_fragments_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `walkway_1_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier9_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier8_items_6`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier8_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier7_items_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier7_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier6_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_11`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_10`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier4_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_12`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_11`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_10`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier10_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `red_sandstone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `orange_sandstone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_4`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `ingot_uranium_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `ingot_mercury_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `ice`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `cloth_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `canned_food_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `canned_food_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `canned_food_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `canned_food_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
-[03:12:28] [Server thread/INFO] [placebo]: Successfully replaced 200 recipes with fast recipes.
-[03:12:29] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
-[03:12:29] [Server thread/INFO] [Waila]: Starting Waila...
-[03:12:29] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[03:12:29] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[03:12:29] [Server thread/INFO] [Waila]: Registering plugins...
-[03:12:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[03:12:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[03:12:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[03:12:29] [Server thread/INFO] [Waila]: Starting Waila took 40.09 ms
-[03:12:29] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 18 mods
-[03:12:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[03:12:29] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[03:12:29] [Server thread/INFO] [FML]: Applying holder lookups
-[03:12:29] [Server thread/INFO] [FML]: Holder lookups applied
-[03:12:29] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@7c1cf4c)
-[03:12:30] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 516 advancements
-[03:12:30] [Server thread/INFO] [dsurround]: Attaching capabilities to world [overworld] (SERVER)
-[03:12:30] [Server thread/INFO] [dsurround]: DimensionInfo{id=0, name=overworld, seaLevel=63, cloudHeight=128, skyHeight=256, haze=true, aurora=true, weather=true, fog=true}
-[03:12:30] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
-[03:12:30] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7c1cf4c)
-[03:12:30] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_nether] (SERVER)
-[03:12:30] [Server thread/INFO] [dsurround]: DimensionInfo{id=-1, name=the_nether, seaLevel=0, cloudHeight=128, skyHeight=128, haze=false, aurora=false, weather=true, fog=true}
-[03:12:30] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
-[03:12:30] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@7c1cf4c)
-[03:12:30] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_end] (SERVER)
-[03:12:30] [Server thread/INFO] [dsurround]: DimensionInfo{id=1, name=the_end, seaLevel=0, cloudHeight=128, skyHeight=256, haze=false, aurora=false, weather=false, fog=false}
-[03:12:30] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
-[03:12:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.080s)! For help, type "help" or "?"
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -13
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -20
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -15
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -16
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -17
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -18
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -19
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -21
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -22
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -29
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -30
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -31
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1504
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1501
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1500
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1503
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1502
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1505
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1506
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1507
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1508
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1509
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1510
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1511
-[03:12:30] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -28
-[03:12:30] [Server thread/INFO] [FML]: Unloading dimension -1
-[03:12:30] [Server thread/INFO] [FML]: Unloading dimension 1
-[03:12:30] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: widget.mcf.li
-[03:12:50] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[03:12:50] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1013,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,vanillafix@1.0.10-150,soundfilters@0.12.1_for_1.12,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,orelib@3.6.0.1,dsurround@3.6.1.0,fastbench@1.7.4,placebo@1.6.0
-[03:12:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:12:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.52.111.233:60367] logged in with entity id 0 at (75.64886676135276, 99.0, 276.58633082264737)
-[03:12:51] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
-[03:12:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
-[03:12:51] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/0, l='world', x=75.65, y=99.00, z=276.59] connected. Sending ping
-[03:48:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowxfx> s
-[04:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowxfx> 8
-[04:04:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx has made the advancement [Take Aim]
-[04:44:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Disconnected
-[04:44:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
-[04:44:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[04:44:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[04:44:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[04:44:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[04:44:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[04:44:43] [Server thread/INFO] [FML]: Unloading dimension 0
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -13
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -20
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -15
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -16
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -17
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -18
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -19
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -21
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -22
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1504
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1501
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1500
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1503
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1502
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1505
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1506
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1507
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1508
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1509
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1510
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1511
-[04:44:43] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
-[04:44:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:02:06] [main/INFO] [VanillaFix]: Done initializing StacktraceDeobfuscator
+[18:02:06] [main/INFO] [VanillaFix]: Initializing Bug Fix Mixins
+[18:02:06] [main/INFO] [VanillaFix]: Initializing Crash Fix Mixins
+[18:02:06] [main/INFO] [VanillaFix]: Initializing Profiler Improvement Mixins
+[18:02:06] [main/INFO] [VanillaFix]: Initializing Texture Fix Mixins
+[18:02:06] [main/INFO] [VanillaFix]: Initializing Mod Support Mixins
+[18:02:06] [main/WARN] [FML]: The coremod VanillaFixLoadingPlugin (org.dimdev.vanillafix.VanillaFixLoadingPlugin) is not signed!
+[18:02:06] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[18:02:06] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[18:02:06] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:02:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:02:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:02:06] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[18:02:06] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[18:02:06] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[18:02:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:02:08] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:02:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:02:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:02:08] [main/INFO] [MicdoodleCore]: Successfully Registered Transformer
+[18:02:08] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[18:02:08] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@2d0bfb24
+[18:02:08] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[18:02:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:02:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:02:08] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[18:02:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:02:08] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[18:02:08] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[18:02:08] [main/WARN] [mixin]: Error loading class: net/minecraft/server/integrated/IntegratedServer (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@13d186db from coremod FMLCorePlugin)
+[18:02:08] [main/WARN] [mixin]: @Mixin target net.minecraft.server.integrated.IntegratedServer was not found mixins.vanillafix.crashes.json:MixinIntegratedServer
+[18:02:09] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:02:09] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[18:02:10] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[18:02:10] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[18:02:11] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[18:02:11] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[18:02:13] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
+[18:02:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[18:02:13] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[18:02:13] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:02:13] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[18:02:13] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[18:02:14] [Server thread/INFO] [FML]: Searching /workspaces/Server-minecraft/servidor_minecraft/./mods for mods
+[18:02:15] [Server thread/INFO] [FML]: Disabling mod soundfilters it is client side only.
+[18:02:15] [Server thread/WARN] [FML]: Mod vanillafix is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.10-150
+[18:02:15] [Server thread/INFO] [FML]: Forge Mod Loader has identified 18 mods to load
+[18:02:15] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[18:02:15] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[18:02:15] [Server thread/WARN] [FML]: Missing English translation for fastfurnace: assets/fastfurnace/lang/en_us.lang
+[18:02:15] [Server thread/WARN] [FML]: Missing English translation for fastbench: assets/fastbench/lang/en_us.lang
+[18:02:15] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
+[18:02:15] [Server thread/WARN] [FML]: Missing English translation for placebo: assets/placebo/lang/en_us.lang
+[18:02:15] [Server thread/INFO] [FML]: FML has found a non-mod file SoundFilters-0.12.1_for_1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[18:02:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, clumps, dsurround, extraplanets, fastfurnace, fastbench, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib, placebo, vanillafix, orelib] at CLIENT
+[18:02:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, clumps, dsurround, extraplanets, fastfurnace, fastbench, galacticraftplanets, galacticraftcore, waila, jei, mjrlegendslib, placebo, vanillafix, orelib] at SERVER
+[18:02:16] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[18:02:16] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[18:02:16] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[18:02:16] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:02:16] [Server thread/INFO] [FML]: Found 1 ItemStackHolder annotations
+[18:02:16] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:02:16] [Forge Version Check/INFO] [forge.VersionCheck]: [vanillafix] Starting version check at https://gist.githubusercontent.com/Runemoro/28e8cf4c24a5f17f508a5d34f66d229f/raw/vanillafix_update.json
+[18:02:17] [Forge Version Check/INFO] [forge.VersionCheck]: [vanillafix] Found status: AHEAD Target: null
+[18:02:17] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[18:02:17] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[18:02:17] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:02:17] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[18:02:17] [Forge Version Check/INFO] [forge.VersionCheck]: [dsurround] Starting version check at https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings/master/version.json
+[18:02:18] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[18:02:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[18:02:18] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsmercury dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 4 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsjuptier dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 5 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssaturn dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 6 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsuranus dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 7 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsneptune dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 8 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetspluto dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 9 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetseris dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 10 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit fake`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedrefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimaterefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssolar panel`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decrystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic crystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic smasher`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic chemical injector`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic solar evaporation chamber`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic purifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedfuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimatefuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic densifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsvehiclechanger`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lit_furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:21] [Server thread/INFO] [FML]: Applying holder lookups
+[18:02:21] [Server thread/INFO] [FML]: Holder lookups applied
+[18:02:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:21] [Server thread/INFO] [FML]: Applying holder lookups
+[18:02:21] [Server thread/INFO] [FML]: Holder lookups applied
+[18:02:21] [Server thread/INFO] [FML]: Applying holder lookups
+[18:02:21] [Server thread/INFO] [FML]: Holder lookups applied
+[18:02:21] [Server thread/INFO] [FML]: Applying holder lookups
+[18:02:21] [Server thread/INFO] [FML]: Holder lookups applied
+[18:02:21] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:02:21] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:02:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[18:02:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[18:02:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[18:02:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[18:02:21] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[18:02:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:02:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[18:02:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:02:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:02:21] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MorePlanets Compatibility, this is most likey intended!
+[18:02:21] [Server thread/INFO] [FML]: Applying holder lookups
+[18:02:21] [Server thread/INFO] [FML]: Holder lookups applied
+[18:02:22] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:02:22] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:02:22] [Server thread/INFO] [GalacticraftCore]: Activating WAILA compatibility features.
+[18:02:23] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up ExtremeReactors Compatibility, this is most likey intended!
+[18:02:23] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MCMultiPart Compatibility, this is most likey intended!
+[18:02:23] [Server thread/INFO] [placebo]: Beginning replacement of all shapeless recipes...
+[18:02:23] [Server thread/INFO] [placebo]: Expect log spam from FML!
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_dye_from_sunflower`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_dye_from_dandelion`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `writable_book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `white_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `trapped_chest`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_rose_bush`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_poppy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_beetroot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_red_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_pink_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_peony`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_dye_from_red_yellow`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_dye_from_orange_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mossy_stonebrick`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mossy_cobblestone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magma_cream`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_purple_and_pink`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lilac`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lapis_red_pink`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lapis_ink_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_allium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_white_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_oxeye_daisy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_ink_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_gray_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_azure_bluet`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_dye_from_lapis_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_dye_from_blue_orchid`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `granite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flint_and_steel`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fire_charge`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fermented_spider_eye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ender_eye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bone_meal_from_bone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bone_meal_from_block`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blaze_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `andesite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `compact_workbench`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_14`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_15`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `basic_item_17`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `rocket_workbench_convert`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_11`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_4`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `cobblestone_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `basic_item_16`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `basic_item_15`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_12`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_6`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `basic_item_18`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `meteor_chunk_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `cobblestone_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_4`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `dye_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `cobblestone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_10`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_0_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `emergency_box_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `food_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `grating`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `prelaunch_checklist`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_6`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `air_vent`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `magnetic_table`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `aluminum_wire_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `aluminum_wire_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftcore` for name `parachute_13`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `walkway_2_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `carbon_fragments_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `carbon_fragments`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `carbon_fragments_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `carbon_fragments_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `galacticraftplanets` for name `walkway_1_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_pressure_plate`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `wooden_button`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `trapdoor`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier9_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier8_items_6`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier8_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier7_items_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier7_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier6_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_11`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier5_items_10`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier4_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_9`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_8`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_7`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_12`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_11`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier11_items_10`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `tier10_items_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `red_sandstone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `orange_sandstone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_5`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_4`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `kepler22b_planks_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `ingot_uranium_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `ingot_mercury_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `ice`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table_alt`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `crafting_table`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `cloth_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `canned_food_3`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `canned_food_2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `canned_food_1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `extraplanets` for name `canned_food_0`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[18:02:23] [Server thread/INFO] [placebo]: Successfully replaced 200 recipes with fast recipes.
+[18:02:24] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[18:02:24] [Server thread/INFO] [Waila]: Starting Waila...
+[18:02:24] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[18:02:24] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[18:02:24] [Server thread/INFO] [Waila]: Registering plugins...
+[18:02:24] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[18:02:24] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[18:02:24] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[18:02:24] [Server thread/INFO] [Waila]: Starting Waila took 50.55 ms
+[18:02:24] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 18 mods
+[18:02:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[18:02:24] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[18:02:24] [Server thread/INFO] [FML]: Applying holder lookups
+[18:02:24] [Server thread/INFO] [FML]: Holder lookups applied
+[18:02:25] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@6e17feba)
+[18:02:25] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 516 advancements
+[18:02:25] [Server thread/INFO] [dsurround]: Attaching capabilities to world [overworld] (SERVER)
+[18:02:25] [Server thread/INFO] [dsurround]: DimensionInfo{id=0, name=overworld, seaLevel=63, cloudHeight=128, skyHeight=256, haze=true, aurora=true, weather=true, fog=true}
+[18:02:25] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[18:02:25] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@6e17feba)
+[18:02:25] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_nether] (SERVER)
+[18:02:25] [Server thread/INFO] [dsurround]: DimensionInfo{id=-1, name=the_nether, seaLevel=0, cloudHeight=128, skyHeight=128, haze=false, aurora=false, weather=true, fog=true}
+[18:02:25] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[18:02:25] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@6e17feba)
+[18:02:25] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_end] (SERVER)
+[18:02:25] [Server thread/INFO] [dsurround]: DimensionInfo{id=1, name=the_end, seaLevel=0, cloudHeight=128, skyHeight=256, haze=false, aurora=false, weather=false, fog=false}
+[18:02:25] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[18:02:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.260s)! For help, type "help" or "?"
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -13
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -20
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -15
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -16
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -17
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -18
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -19
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -21
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -22
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -29
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -30
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -31
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1504
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1501
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1500
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1503
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1502
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1505
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1506
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1507
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1508
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1509
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1510
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -1511
+[18:02:25] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -28
+[18:02:25] [Server thread/INFO] [FML]: Unloading dimension -1
+[18:02:25] [Server thread/INFO] [FML]: Unloading dimension 1
+[18:02:26] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: widget.mcf.li
+[18:02:41] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[18:02:41] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 25 mods : minecraft@1.12.2,jei@4.16.1.1013,vanillafix@1.0.10-150,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,fastbench@1.7.4,placebo@1.6.0,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,controllable@0.11.2,soundfilters@0.12.1_for_1.12,orelib@3.6.0.1,dsurround@3.6.1.0
+[18:02:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:02:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:42421] logged in with entity id 0 at (73.5, 99.0, 281.5)
+[18:02:46] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
+[18:02:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[18:02:46] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/0, l='world', x=73.50, y=99.00, z=281.50] connected. Sending ping
+[18:03:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowxfx lost connection: Timed out
+[18:03:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx left the game
+[18:05:10] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[18:05:10] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 25 mods : minecraft@1.12.2,jei@4.16.1.1013,vanillafix@1.0.10-150,xaerominimap@25.2.6,mcp@9.42,clumps@3.1.2,fastbench@1.7.4,placebo@1.6.0,galacticraftcore@4.0.7,betterthirdperson@1.9.0,inventoryhud@3.4.4,FML@8.0.99.99,extraplanets@1.12.2-0.8.0,fastfurnace@1.3.1,xaerominimap_core@1.12.2-1.0,waila@1.8.26,galacticraftplanets@4.0.7,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.7,mjrlegendslib@1.12.2-1.2.1,forge@14.23.5.2860,controllable@0.11.2,soundfilters@0.12.1_for_1.12,orelib@3.6.0.1,dsurround@3.6.1.0
+[18:05:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:05:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowxfx[/127.60.117.46:53329] logged in with entity id 429 at (73.5, 99.0, 281.5)
+[18:05:15] [Server thread/INFO] [dsurround]: Player [Shadowxfx] connected with Dynamic Surroundings 3.6.1.0
+[18:05:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowxfx joined the game
+[18:05:15] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Shadowxfx'/429, l='world', x=73.50, y=99.00, z=281.50] connected. Sending ping
